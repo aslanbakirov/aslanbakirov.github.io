@@ -1,5 +1,5 @@
 current directory: /Users/aslan/workspace/aslanbakirov.github.io/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
-/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220107-53319-2iygq4.rb extconf.rb
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220107-84122-8vi2ca.rb extconf.rb
 creating Makefile
 
 current directory: /Users/aslan/workspace/aslanbakirov.github.io/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
@@ -77,4 +77,4 @@ linking shared-object sassc/libsass.bundle
 
 current directory: /Users/aslan/workspace/aslanbakirov.github.io/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20220107-53319-a5jq7i/sassc
+/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20220107-84122-ohqn6q/sassc

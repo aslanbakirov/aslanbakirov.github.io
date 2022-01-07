@@ -155,7 +155,7 @@ warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbind
 1 warning generated.
 Undefined symbols for architecture x86_64:
   "_rb_thread_blocking_region", referenced from:
-      _t in conftest-71112f.o
+      _t in conftest-06e36d.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -330,7 +330,7 @@ warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbind
 1 warning generated.
 Undefined symbols for architecture x86_64:
   "_rb_enable_interrupt", referenced from:
-      _t in conftest-5d3259.o
+      _t in conftest-c61b7b.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -521,7 +521,7 @@ warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbind
 1 warning generated.
 Undefined symbols for architecture x86_64:
   "_pipe2", referenced from:
-      _t in conftest-2b2c7c.o
+      _t in conftest-d6fac3.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -580,7 +580,7 @@ warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbind
 1 warning generated.
 Undefined symbols for architecture x86_64:
   "_accept4", referenced from:
-      _t in conftest-eaf242.o
+      _t in conftest-69ad6a.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:

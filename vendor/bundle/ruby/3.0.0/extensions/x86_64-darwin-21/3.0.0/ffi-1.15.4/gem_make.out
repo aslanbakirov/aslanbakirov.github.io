@@ -1,5 +1,5 @@
 current directory: /Users/aslan/workspace/aslanbakirov.github.io/vendor/bundle/ruby/3.0.0/gems/ffi-1.15.4/ext/ffi_c
-/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220107-53319-2l5h9m.rb extconf.rb
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220107-84122-ltzypf.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... no
 checking for ffi_prep_closure_loc() in -llibffi... no
 checking for ffi_prep_closure_loc() in -llibffi-8... no
@@ -124,4 +124,4 @@ compiling Types.c
 compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.bundle
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20220107-53319-4az8rk
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20220107-84122-5jgc8v
