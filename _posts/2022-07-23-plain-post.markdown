@@ -37,7 +37,7 @@ Exterior of a prokaryotic cell is covered by a *cell wall* that serves as the ba
 Cells with nuclei is called *eukaryotes*, which means "true nucleus". Eukaryotes can be one-celled or multicellular organisms. Like prokaryotes, eukaryotes cells are held together by a *plasma membrane*. Most important part of eukaryotes cell is the nucleus, which houses the DNA that is divided into one or more chromosomes. Eukaryotes usually have much larger amounts of DNA than prokaryotes. Unlike prokaryotes, eukaryotes have all sort of cell parts called *organelles*. These organelles float aroung in the cytoplasm outside of nucleus. Two important organelles are:
 
   - **Mitochondria:** The powerhouses of the eukaryotes cell. Mitochondria pump out energy by converting glucose to ATP(adenosine triphosphate). ATP acts like a battery of sorts, storing energy until it needed. All eukaryotes have mitochondria
-  - **Chloroplasts:**: These organelles are unique to plants and algae. They process the energy from sunlight into sugars needed to nourish the plant cells.
+  - **Chloroplasts:** These organelles are unique to plants and algae. They process the energy from sunlight into sugars needed to nourish the plant cells.
 
 
 In most multicellular eukaryotes, cells come in two basic types: body cells (called *somatic* cells) or sex cells. 
