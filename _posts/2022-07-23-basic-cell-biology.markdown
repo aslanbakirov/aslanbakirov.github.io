@@ -4,11 +4,11 @@ title:  "Basic Cell Biology and Genetics"
 date:   2022-07-23 16:34:43 +0000
 ---
 
-Recent several months, I have encountered and read papers, news, posts about advancements in in drug discovery, synthetic biology, CRIPS, protein folding (AlphaFold) etc. These are all fascinating improvements that might make world a better place to live. While reading the details, I noticed, I am lacking basic, fundamental biology knowledge in order to grasp the details. Therefore, I decided to invest some of my time to learn very basic components in genetics, and biology and share it with the people who are in the similar position. 
+Recent several months, I have encountered and read papers, news, posts about advancements in drug discovery, synthetic biology, CRIPS, protein folding (AlphaFold) etc. These are all fascinating improvements that might make world a better place to live. While reading the details, I noticed, I am lacking basic, fundamental biology knowledge in order to grasp the details. Therefore, I decided to invest some of my time to learn very basic components in genetics, and biology and share it with the people who are in the similar position. 
 Since this post is 101 and also I dont know more yet, I will try to keep the post as simple as I can.
 
 ## What is Genetics?
-Genetics is the field of science that examines how traits are passed from one generation to th next. 
+Genetics is the field of science that examines how traits are passed from one generation to the next. 
 
 ## What is Gene?
 The Genes are the segments of DNA(Deoxyribonucleic acid) that are the fundamental units of heredity.
