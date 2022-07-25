@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basics of DNA"
-date:   2022-07-25 16:34:43 +0000
+date:   2022-07-25 10:34:43 +0000
 --- 
 
 Every living thing on earth uses DNA to store genetic information and transmits that info from one generation to the next. A copy of some (or all) of every creature's DNA is passed on to its offspring. 
