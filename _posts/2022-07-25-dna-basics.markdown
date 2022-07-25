@@ -46,7 +46,7 @@ A complete DNA molecule has
  - Sugars and phosphates are the outside, forming a backbone
 
 If you were untwist a DNA double helix and lay it flat, it would look like a ladder. 
-![The DNA double helix](../images/dna-double-helix.png "DNA double helix")
+![The DNA double helix](/assets/dna-double-helix.png)
 
 
 The molecule is guaranteed to be the same size all over because the matching bases complement each other, making whole pieces that are all the same size. Adenine complements thymine, and guanine complements cytosine. The bases always match up in this complementary fashion. Therefore, in every DNA molecule, the amount of one base is equal to the amount of its complementary base. This condition is known as *Chargaff's rules*.
