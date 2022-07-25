@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DNA and Its Replication"
+title:  "Basics of DNA"
 date:   2022-07-25 16:34:43 +0000
 --- 
 
