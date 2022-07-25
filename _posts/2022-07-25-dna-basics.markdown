@@ -30,7 +30,7 @@ These four bases come in two flavors:
  - **Pyrimidines:** The two pyrimidine bases in DNA are cytosine and thymine. The term *prymidine* refer to chemicals that have a single six-sided ring structure.
 
 Please check the figure below to see the details.
-![Chemical Structure of DNA bases](https://github.com/aslanbakirov/aslanbakirov.github.io/blob/main/images/chemical-bases.png "Chemical Structure of DNA bases")
+![Chemical Structure of DNA bases](./images/chemical-bases.png "Chemical Structure of DNA bases")
 
 The sequences of bases carries the message of DNA, which provides the information necessary to produce the corresponding protein.  However, bonds can not bond together by themselves. Two more ingredients are needed: a special kind of sugar and phosphate. 
 That is to say, to make a complete nucleotide the bases must attach to deoxyribose and a phosphate molecule. *Deoxyribose* is ribose sugar that has lost one of its oxygen atoms. When your body breaks down  *adenosine triphosphate* (ATP), the molecule your body uses to power your cells, ribose is released with a phosphate molecule still attached to it.  
