@@ -18,7 +18,7 @@ The --omics revolution has not only generated huge datasets, it has turned the t
 
 To summarize this intro section by comparing the traditional and new scientific method of experimental (systems) biology 
 
- - **The traditional scientific method of biology**
+**The traditional scientific method of biology**
     1. Make an observation
     2. Ask a question regarding the observation
     3. Do background research to see what is known about the question
@@ -30,9 +30,7 @@ To summarize this intro section by comparing the traditional and new scientific 
     9. Usually new insights lead to additional questions. Formulate new hypothesis that target these questions
 
 
-
-
- - **The new scientific method of experimental systems biology, applied to a disease.**
+**The new scientific method of experimental systems biology, applied to a disease.**
     1. Identify an interesting phenomenon, such as a disease
     2. Decide whether protemics, or metabolomics is most promising
     3. Perform the same --omics analysis of genes, proteins and/or metobolites with a sample from a healthy person and from a person with a disease.
@@ -43,3 +41,34 @@ To summarize this intro section by comparing the traditional and new scientific 
     8. If the results do not support the hypothesis, go back to 2,3 or 6.
     9. If the experiment results do support one of the hypothesis, new insights are gained and should be shared with the scientific community
  
+## Data, Information, Knowledge, Understanding
+
+The new methods of --omics biology, combined with more traditional experiments, have the capacity of generating more high quaility data than ever before. So, why is not that sufficient? Before answering this question, lets explain what is the difference between these terms
+
+  - **Data:** Data are discrete, objective facts, often without a context. Lets say you read "rainfall at the airport was 2.6 centimeters". You dont know what does that mean, is 2.6 centimeters a lot?
+  - **Information:** Generally information consists of processed data augmented/enriched with *metadata* which consists of such meaning, together with some context and background. 
+  - **Knowledge:** Is mixture of synthesize information, context, experience and even value judgement. It explains how the information was obtained or generated, recognizes patterns in information, often procedures for assessing a situation, and guides expectations regarding the future
+  - **Understanding:** Understand interprets the knowledge. It provides casuality and rationale for a phenomenon, detail and pattern in data. Understanding helps us explain why something is the way it is.
+
+Statistical Machine learning helps us to gain the knowledge and understand it by using given data.
+
+## Machine Learning (ML)
+
+ML is a scientific field that studies datasets by combining statistics with heavy-duty computing. The main goal of ML is to train computer programs (*algorithms*) to find something in a dataset that had not been known before, such as an association between two types of data. The accuracy of findings steadily improves as more data becomes available.
+
+ML requires training that can happen with or without human supervision. In the former case, the human supervisor gives the algorithm a large dataset, lets say, containing data from healthy individuals and from individuals with lung cancer, informs the computer which individuals have cancer and which dont, and instructs the algorithm to find features or patterns in the dataset that distinguish healthy from diseased individuals. In the latter case, algorithm learns without human supervision. It does not know which individuals actually have cancer and which dont. Instead, the algorithm is asked to determine whether there are *any* significant patterns in the dataset. 
+
+
+# Interdependencies of biological systems
+
+Biological systems are super complex. In this part, I will try to write about some of the complexities in different biologies systems and how computational systems biologycan help to understand them using statistical machine learning methods.
+
+Even the simplest of organisms rely on uncounted molecular processes that allow them to thrive, propagate, and respond threats from predators, parasites, and the environment. They contain thousands of genes defining each organism's set of functions and features; proteins that provide structure, control biochemical reactions, and serve as means of transporting molecules; metabolites for energy and other purposes; many signaling mechanisms that regulate all aspects of life. All of these components are interacting with each other continously, and at a molecular level this organization is captures in *central dogma*.
+
+Central dogma holds that the flow of information in the cells starts with genes (DNA sequences), which are *transcribed* into messenger RNA (mRNA), which in turn *translated* into proteins. Proteins play structural and signaling roles and control the conversion of food into energy and into metabolites, that is, the numerous and diverse chemical compounds required for life. However, the information flow is regulated in multiple ways. Some proteins serve as *transcription factors*, which control the transcription of genes into mRNAs. Some of RNA can regulate or even stop the transciption of specific DNA sequences. Metabolites can trigger or prevent the expression of specific genes. The consequence of these insights is that the simple one-way process represented in central dogma is in truth much more complicated: information flows through a higly regulated systems with many feedback signals. 
+![Central Dogma](/assets/central-dogma.jpeg 
+ 
+
+
+### Resources
+ - Systems Biology: A very short introduction
