@@ -16,7 +16,7 @@ In the past, experiments were time consuming and expensive and data were therefo
 The --omics revolution has not only generated huge datasets, it has turned the tried-and-true scientific method on its head. The central position of a strong hypothesis has vanished, and the new mindset is *exploratory data analysis*, which were translated into the lax mandate: "lets see what'is out there and then we will try to figure out what it means". In contrast to the traditional scientific method, there is no hypothesis that gene X or gene Y might have something to do with that particular cancer, but rather all genes are examined in the hope of detecting *patterns*. Because resulting datasets consists of thousands of data points, they are evaluated with computational methods of statistical machine learning, which reveal *patterns in the data*. 
 
 
-To summarize this intro section by comparing the traditional and new scientific method of systems biology 
+To summarize this intro section by comparing the traditional and new scientific method of experimental (systems) biology 
 
  - **The traditional scientific method of biology**
     1. Make an observation
