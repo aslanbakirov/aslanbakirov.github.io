@@ -18,11 +18,26 @@ The --omics revolution has not only generated huge datasets, it has turned the t
 
 To summarize this intro section by comparing the traditional and new scientific method of systems biology 
 
- - *The traditional scientific method of biology*
+ - **The traditional scientific method of biology**
     1. Make an observation
     2. Ask a question regarding the observation
+    3. Do background research to see what is known about the question
+    4. Refine the question to a point that it can be formulated as a hypothesis
+    5. Design an experiment to test the hypothesis and execute it
+    6. Analyse data resulting from the experiment and determine to what degree the results support hypothesis
+    7. If the results do not support the hypothesis, go back to 2,3, or 4
+    8. If the experiment results do support hypothesis, new insights are gained, Share these insights with the scientific community
+    9. Usually new insights lead to additional questions. Formulate new hypothesis that target these questions
 
- - *The new scientific method of experimental systems biology, applied to a disease.
+
+ - **The new scientific method of experimental systems biology, applied to a disease.**
     1. Identify an interesting phenomenon, such as a disease
-    2. Decide whether protemics, or metabolomics is most promising*
+    2. Decide whether protemics, or metabolomics is most promising
+    3. Perform the same --omics analysis of genes, proteins and/or metobolites with a sample from a healthy person and from a person with a disease.
+    4. Collect significant diffirences between corresponding measurements in the two samples, using methods of machine learning
+    5. Assemble these diffirences into normal and disease profiles
+    6. Formulate hypothesis explaining the differences between these profiles
+    7. Perform traditional experiments testing the most promising hypothesis
+    8. If the results do not support the hypothesis, go back to 2,3 or 6.
+    9. If the experiment results do support one of the hypothesis, new insights are gained and should be shared with the scientific community
  
