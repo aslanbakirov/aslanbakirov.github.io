@@ -68,6 +68,36 @@ Even the simplest of organisms rely on uncounted molecular processes that allow 
 Central dogma holds that the flow of information in the cells starts with genes (DNA sequences), which are *transcribed* into messenger RNA (mRNA), which in turn *translated* into proteins. Proteins play structural and signaling roles and control the conversion of food into energy and into metabolites, that is, the numerous and diverse chemical compounds required for life. However, the information flow is regulated in multiple ways. Some proteins serve as *transcription factors*, which control the transcription of genes into mRNAs. Some of RNA can regulate or even stop the transciption of specific DNA sequences. Metabolites can trigger or prevent the expression of specific genes. The consequence of these insights is that the simple one-way process represented in central dogma is in truth much more complicated: information flows through a higly regulated systems with many feedback signals. 
 ![Central Dogma](/assets/central-dogma.jpeg) 
  
+### Gene Systems
+As we learned in the previous part, DNA is *transcribed* into messenge RNA, which is subsequently *translated* into protein. In these two processes of transcription and translation, combination of three DNA nucleotides uniquely represent three RNA nucleotides, which in turn represent one of the *amino acids* that will ultimately make up this protein. It is important to know which groups of genes in multicellular organisms are transcribed under particular conditions and in which cells. This type of coordination is accomplished by transctiption factors and a number of regulators, which are usually proteins or RNAs that themselves are the products of gene transcription. (Pretty comlicated). 
+
+### Proteins
+Every organism is totally dependent on its genes because they contain most of the information for survival and propagation. But information alone is not sufficient, and actual work is required to thrive. Proteins are the true workhorses for most of the jobs an organism requires. They are at the core of biophysical structures; they serve as transpost engines, manage all the biochemistry that converts food into energy and into the compounds the body needs.
+
+Proteins are large molecules consists of long chains of chemical building blocks, called *amino acids*. Nature uses twenty diffirent amino acids for proteins, which does not sound much, but permits huge number of diffirent proteins. Most current research activities in this restricted domain fall into three categories: *availibility ad location*, *chemical structure*, and *function*
+
+Research in the first category addresses questions regarding the amounts and localization of proteins under diffirent conditions. Some questions it tries to answer are:
+ - How do the amounts of proteins differ between a cancer cell and a normal cell of the same tissue?
+ - If a physical or chemical conditions in a cell's environment change, do some proteins move to diffirent locations, if so where do they move and what are the consequences?
+
+The second category addresses questions of protein structure. Each amino acid in a protein has its particular chemical and physical properties, depending on its atomic composition and electric charge, which may be positive, negative or neutral. If many amino acids are linked together in chain, these properties cause the protein to bend and fold into complicated three-dimensional structures, such as spirals and barrels. The three-dimensional structure, together with the surrounding chemical milieu, is responsible for the function of the protein. It would therefore be very helpful to predict a protein's three-dimensional structure from its sequence of amino acids, which we typically know from the gene sequence that codes for it. AlphaFold project from DeepMind, helped a lot to understand the protein folding.
+
+The third category of the protein research focuses on the function of proteins. For instance, proteins are critical palyers in essentially all diseases, whether as signal receptors, enzymes, transporters or something else.
+
+*Note:* While our focus here is on the central dogma, we must not forget that proteins are also responsible for the transport of compounds between cells and through the bloodstream, that they drive our immune system, and that they permit the function of muscles, thereby allowing movement, including the regular contractions and relaxations that govern our heart, lungs and digestive system.
+
+
+### Signaling
+
+The fine-tunned coordination of systems within each cell or organism requires that their parts must "know" what is happening in other parts, at least to some degree. This sharing of information is called *signaling*, *signal transduction*, or *signal transmission*. For instance, touching a hot stove is perceived by sensors in the fingers, the information is sent via nerves to a spinal cord, which send back signals to the arm muscles instructing them to remove the hand from the stove; all in a fraction of second. This type of signaling through nerves involves chemical and electical processes. At the cellular level, signaling can be achieved with proteins, small molecules like calcium or electricity. 
+
+A widely found signal transduction system is combination of a receptor with a protein-based *signaling cascade*. The receptor itself is located in the cell membrane with one part of it sticking outside the cell and the opposite part reaching into the inside. The outside component is able to bind to appropriate signalling molecules outside of the cell, which are collectively called *ligands*. These ligands may be of very diffirent types, but are specific for a given signaling task. Once a ligand binds, the inside *conformation* (molecular shape) of the receptor changes, thereby serving as an internal signal turning on a signaling cascade. 
+Computational research in this area falls into two groups:
+ - how the various cascades are composed, how they interact, and how signals travel throughout a cell.
+ - What are the dynamics of known cascades.
+
+
+
 
 
 ### Resources
