@@ -30,6 +30,8 @@ To summarize this intro section by comparing the traditional and new scientific 
     9. Usually new insights lead to additional questions. Formulate new hypothesis that target these questions
 
 
+
+
  - **The new scientific method of experimental systems biology, applied to a disease.**
     1. Identify an interesting phenomenon, such as a disease
     2. Decide whether protemics, or metabolomics is most promising
