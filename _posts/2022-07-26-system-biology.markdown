@@ -19,27 +19,27 @@ The --omics revolution has not only generated huge datasets, it has turned the t
 To summarize this intro section by comparing the traditional and new scientific method of experimental (systems) biology 
 
 **The traditional scientific method of biology**
-    1. Make an observation
-    2. Ask a question regarding the observation
-    3. Do background research to see what is known about the question
-    4. Refine the question to a point that it can be formulated as a hypothesis
-    5. Design an experiment to test the hypothesis and execute it
-    6. Analyse data resulting from the experiment and determine to what degree the results support hypothesis
-    7. If the results do not support the hypothesis, go back to 2,3, or 4
-    8. If the experiment results do support hypothesis, new insights are gained, Share these insights with the scientific community
-    9. Usually new insights lead to additional questions. Formulate new hypothesis that target these questions
+1. Make an observation
+2. Ask a question regarding the observation
+3. Do background research to see what is known about the question
+4. Refine the question to a point that it can be formulated as a hypothesis
+5. Design an experiment to test the hypothesis and execute it
+6. Analyse data resulting from the experiment and determine to what degree the results support hypothesis
+7. If the results do not support the hypothesis, go back to 2,3, or 4
+8. If the experiment results do support hypothesis, new insights are gained, Share these insights with the scientific community
+9. Usually new insights lead to additional questions. Formulate new hypothesis that target these questions
 
 
 **The new scientific method of experimental systems biology, applied to a disease.**
-    1. Identify an interesting phenomenon, such as a disease
-    2. Decide whether protemics, or metabolomics is most promising
-    3. Perform the same --omics analysis of genes, proteins and/or metobolites with a sample from a healthy person and from a person with a disease.
-    4. Collect significant diffirences between corresponding measurements in the two samples, using methods of machine learning
-    5. Assemble these diffirences into normal and disease profiles
-    6. Formulate hypothesis explaining the differences between these profiles
-    7. Perform traditional experiments testing the most promising hypothesis
-    8. If the results do not support the hypothesis, go back to 2,3 or 6.
-    9. If the experiment results do support one of the hypothesis, new insights are gained and should be shared with the scientific community
+1. Identify an interesting phenomenon, such as a disease
+2. Decide whether protemics, or metabolomics is most promising
+3. Perform the same --omics analysis of genes, proteins and/or metobolites with a sample from a healthy person and from a person with a disease.
+4. Collect significant diffirences between corresponding measurements in the two samples, using methods of machine learning
+5. Assemble these diffirences into normal and disease profiles
+6. Formulate hypothesis explaining the differences between these profiles
+7. Perform traditional experiments testing the most promising hypothesis
+8. If the results do not support the hypothesis, go back to 2,3 or 6.
+9. If the experiment results do support one of the hypothesis, new insights are gained and should be shared with the scientific community
  
 ## Data, Information, Knowledge, Understanding
 
@@ -59,14 +59,14 @@ ML is a scientific field that studies datasets by combining statistics with heav
 ML requires training that can happen with or without human supervision. In the former case, the human supervisor gives the algorithm a large dataset, lets say, containing data from healthy individuals and from individuals with lung cancer, informs the computer which individuals have cancer and which dont, and instructs the algorithm to find features or patterns in the dataset that distinguish healthy from diseased individuals. In the latter case, algorithm learns without human supervision. It does not know which individuals actually have cancer and which dont. Instead, the algorithm is asked to determine whether there are *any* significant patterns in the dataset. 
 
 
-# Interdependencies of biological systems
+## Interdependencies of biological systems
 
 Biological systems are super complex. In this part, I will try to write about some of the complexities in different biologies systems and how computational systems biologycan help to understand them using statistical machine learning methods.
 
 Even the simplest of organisms rely on uncounted molecular processes that allow them to thrive, propagate, and respond threats from predators, parasites, and the environment. They contain thousands of genes defining each organism's set of functions and features; proteins that provide structure, control biochemical reactions, and serve as means of transporting molecules; metabolites for energy and other purposes; many signaling mechanisms that regulate all aspects of life. All of these components are interacting with each other continously, and at a molecular level this organization is captures in *central dogma*.
 
 Central dogma holds that the flow of information in the cells starts with genes (DNA sequences), which are *transcribed* into messenger RNA (mRNA), which in turn *translated* into proteins. Proteins play structural and signaling roles and control the conversion of food into energy and into metabolites, that is, the numerous and diverse chemical compounds required for life. However, the information flow is regulated in multiple ways. Some proteins serve as *transcription factors*, which control the transcription of genes into mRNAs. Some of RNA can regulate or even stop the transciption of specific DNA sequences. Metabolites can trigger or prevent the expression of specific genes. The consequence of these insights is that the simple one-way process represented in central dogma is in truth much more complicated: information flows through a higly regulated systems with many feedback signals. 
-![Central Dogma](/assets/central-dogma.jpeg 
+![Central Dogma](/assets/central-dogma.jpeg) 
  
 
 
