@@ -96,8 +96,21 @@ Computational research in this area falls into two groups:
  - how the various cascades are composed, how they interact, and how signals travel throughout a cell.
  - What are the dynamics of known cascades.
 
+### Metabolic pathways
+
+Metabolic pathways are chains of chemical reactions that convert metabolites into other metabolites. As an example, a chain of ten reactions converts glucose from food into the common intermediate metabolite pyruvate, which is subsequently used in numerous other reactions. Each biochemical reaction uses a *substrate* (e.g glucose) and converts it into a *product* (e.g pyruvate) which then becomes the substrate of the next reaction. Specialized *enzymes* facilitate most of these reactions by acting as catalysts. Metabolites may be seen as the last components of the central dogma; indeed, the pathways converting them into each other are often the ultimate targets of changes in gene expression. 
+
+It is often at the level of metabolites that diffirences between health and disease manifest. Diabetes is associated with an imbalance of glucose in the bloodstream. Parkinson's disease results from low level of the brain chemical dopamine, and cancer cells rewire their metabolism for energy production and proliferation. 
+Most biochemical reactions are executed by enzymes, whose amount and chemical and physical features determine how fast a substrate is converted into a product. Most enzymes are very specific for the task and execute only a single reaction or at most few reactions with similar substrates, although they are exceptions.
 
 
+From the viewpoint of controlling a system, like a metabolic pathway system, a very important feature is the option of regulating the *fluxes*, that is, the amounts of material flowing through each reaction at a given time. A prominent tool is feedback inhibition: If a lot of end product of a pathway is already available, the end product itself send a signal to the first step of the pathway, "instructing" it to slow down or even stop. This instruction is accomplished by affecting the enzyme that is responsible for the first step of the pathway. Two very frequent mechanisms are  *competitive inhibition* and *allosteric inhibition*. In the former case, the end product has a chemical structure that is so similar to the substrate of the first step, that it competes with it for the enzyme, thereby tying up some of the available enzyme molecules and slowing down the reaction. In the latter case, the end product, or some other metabolite, can bind to some location on the surface of the enzyme and by doing so change the activity of the enzyme with respect to the substrate. In both cases, the enzyme activity is reduced or stopped. 
+
+
+## How Computational systems (ML) can help?
+
+ Understanding the functionality of these types of systems/networks (gene systems, protein, metabolic pathways) is an important task of computational system biology. Sincethey(functionalities) can not observed directly, they must be inferred from data with methods of ML. The key step of a computational *network inference* is a sophisticated statistical analysis of data indicating that certain genes are *co-expressed*, which means they are transcipted into RNA under  the same or similar conditions, such as heat, pressure, or exposure to some chemical in the case of bacterial cell. If the same two genes are often co-expressed or silenced at the same time, the hypothesis is that they are controlled by the same transciption factors and regulators. 
+I believe, one day mathematics and computation will be capable of reliably predicting, manipulating and optimizing biomedical systems for the advancement of medicine, drug development, biotechnology and productive and sustainable stewardship of the environment. 
 
 
 ### Resources
