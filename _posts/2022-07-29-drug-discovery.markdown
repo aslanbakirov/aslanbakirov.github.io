@@ -13,9 +13,25 @@ In this post, I go though overview of typical/traditional drug development pathw
 4. Regulatory Approval (FDA in US)
 5. Post-Market Safety Monitoring
 
+# Early Discovery and Development
+Let's get more in depth in the diffirent processes that occur during the early drug discovery. 
 
+## Target Identification and Validation
+
+## High Throughput Screening
+
+## Hit Identification and Discovery
+
+## Assay Development and Screening
+
+## Hit-To-Lead (H2L)
+
+## Lead Generation and Optimization
+
+## *In Vivo* and *In Vitro* Assays
 
 
 
 ## Resouces
  - https://www.nebiolab.com/drug-discovery-and-development-process/
+ - https://blog.biobide.com/the-drug-discovery-process
