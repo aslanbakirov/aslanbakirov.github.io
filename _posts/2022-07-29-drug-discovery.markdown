@@ -62,6 +62,31 @@ Clinical trials must be safe and efficacious and be completed under the drug dev
 This phase is the first time the drug is tested on humans, less than 100 volunteers will help researchers assess the safety and pharmacokinetics, absorption, metabolic and elimination effects on the body, as well as side effects for safe dosage ranges.
 
 ### Phase II
+Phase II assesses drug safety and efficacy in an additional 100-500 patients, who may receive a placebo or standard drug previously used as treatment. Analysis of optimal dose strength helps create schedules while adverse event and rists are recorded. 
+
+### Phase III
+Phase III enrolls 1000-5000 patients, enabling medication labeling and instructions for proper drug use. 
+
+
+#### Pharmacodynamic (PD) Biomarkers
+PD biomarkers are molecular indicators of the drug's effects on the target human area, and link drug regimen and biological responses. This data can help select rational combinations of targeted agents and optimize drug regimens and schedules. 
+
+#### Pharmacokinetic (PK) Analysis
+During phases, drug dynamics data within the body will be derived and described. PK analysis is the process of analysing this data. 
+
+### Bioanalytical Method Validation
+The validation of bioanalytical methods involves quantative determinations of the corresponding analyte in biological matrices such as urine, saliva, blood etc. 
+
+## Regulatory Approval
+
+When the development of a drug is almost completed, the approval documentation is drawn up and submitted to the competent authority. The approval authority checks all data and decides on approval. To do this, the drug must have a favorable **risk-benefit ratio**.  The risk-benefit ratio is the most important approval criterion. 
+
+## Post Market Safety Monitoring
+Even after approval has been granted, the risk-benefit ratio should be continously monitored. If it changes, this has an impact on the approval, and in the worst-case scenario, the drug even has to be withdrawn from the market.
+
+
+In this post, I tried to explain all the phases and their details of the drug discovery and developement. In the future posts, I plan to explain how AI can help to optimize and fasten this process.
+
  
 
 
