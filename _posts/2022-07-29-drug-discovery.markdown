@@ -55,7 +55,15 @@ Preclinical tests are done on non-human subjects.
 In silico assays are also used in preclinical phase. These are the test systems or biological experiments performed on a computer or via computer simulation. These are expected to become increasingly popular with the ongoing improvements in computational power and bevahoural understanding of molecular dynamics and cell biology.
 
 ## Clinical Development
-Once preclinical research is complete, researcher move on to clinical drug development, including clinical trials and volunteer studies to finetune the drug for human use
+Once preclinical research is complete, researcher move on to clinical drug development, including clinical trials and volunteer studies to finetune the drug for human use.
+Clinical trials must be safe and efficacious and be completed under the drug development budget, using methodology to ensure the drug works as well as possible for its intended purpose. Dose determination also happens in this pahse. Proper dosing determines medication effectiveness, and clinical trial examine dose escalation and multiple dose studies to determine the best patient dosage. Clinical trials happen in three phases.
+
+### Phase I
+This phase is the first time the drug is tested on humans, less than 100 volunteers will help researchers assess the safety and pharmacokinetics, absorption, metabolic and elimination effects on the body, as well as side effects for safe dosage ranges.
+
+### Phase II
+ 
+
 
 
 ## Resouces
