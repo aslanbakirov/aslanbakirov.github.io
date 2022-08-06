@@ -4,7 +4,7 @@ title:  "The Immune System"
 date:   2022-08-06 09:34:43 +0000
 ---
 
-*Note and Disclaimer:* This post is just braindump of mine after spending some time reading about human immune system. Tried to keep it as simple as possible, using some analogies. Very much inspired from the book "Immune" by Philipp Dettmer. In addition, this post assumes that the reader possess high level information about basic cell biology and genetics, including DNA, proteins and cell structure (if not, please refer to my other posts about them). We will be focusing on human immune system. 
+*Note and Disclaimer:* This post is just braindump of mine after spending some time reading about human immune system. The topic itself is huge and much more complicated. Tried to keep it as simple as possible, using some analogies. Very much inspired from the book "Immune" by Philipp Dettmer. In addition, this post assumes that the reader possess high level information about basic cell biology and genetics, including DNA, proteins and cell structure (if not, please refer to my other posts about them). We will be focusing on human immune system. 
 
 # What is the Immune System?
 
@@ -42,8 +42,10 @@ These decisions are vital, because they influence what sort of weapons your immu
 
 ## Adaptive Immune System
 
+The realm of Adaptive Immune system contains specialised super cells that coordinate and support your first line of defense. It contains factories that produce heavy protein weapons, and special cells that hunt and kill infected body cells in the case of viral infection. Its defining feature is that it is *specific*. Your adaptive immune system "knows" every possible intruder, has a specific answer for every possible microorganism that exists on this planet right now. We will talk in detail later in this post about this fascinating specific defense and how it works, but for now, just remember that your Adaptive immune system possesses largest library in the known universe, with an entry for every current and future possible enemy. 
 
- 
+
+In contrast to Innate immune system, your adaptive immune system is not ready yet when you are born. It needs to be trained and refined over many years. It starts as blank slate, and then gets progressively more powerful, only to get weaker as you age. A weak adaptive immune system is one of the main reasons young and old humans are often much more likely to die from diseases than people in the middle of their lives. Mothers actually lend their newborn babies a bit of their adaptive immunity in their mother's milk to help them survive and give them some protection. 
 
 
  
