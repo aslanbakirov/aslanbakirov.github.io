@@ -22,4 +22,28 @@ To summarize, distinguishing between self and other is core, homeostatis is the 
  
 # What is there to defend?
 
+Your body is perfect safe place with lots of "food" for bacteria, viruses and parasites, that is why they would like to "enter" and live there (Why, reason comes from evalution). The cells of your immune system are tasked to defend all of your body. Especially, the weak points where intruders can enter it, which is mostly the borders, the outside of your body. When you think about outsides, the first thing comes to mind is of source, your skin. Luckily, it is not that hard to defend, since most of it is made out of a hard, thick barrier covered with its own defense system. It feels soft, but it is pretty hard to breach if it is intact. Your real weak points to infections are your mucous membrane--the surface that lines your windpupe and lungs, eyelids, mouth and nose, your stomach and intestines, your reproductive tracts and bladder. 
 
+Literally billions of parasites are trying to get inside. Some of them are bigger than the others. Mostly, they want to steal the *food* and make your body their permenant home to raise generations of their offspring. 
+
+# Types of immune system
+Lets very briefly define two types of your Immune system (we will dive a lot dipper, later in this post): **Innate Immune System** and **Adaptive Immune System**
+
+## Innate Immune System
+Innate Immune system contains all the defenses you are born with, and that can be employed mere seconds after the invasion occurs. One of its most central features is that it is the sort of smart part of your immune system. It has the power to tell/distinguish *self* from *other*. And once it detects *other* it immediately springs into action. However, its weapons are not tailored to identify any specific enemy, but instead they try to be effective accross a wide range of common enemies. It doesn't have specific weapons against specific types of *E.coli* bacteria, for example, but against bacteria in general. Think of it like your basic starter kit: it has all fundamentals, not the specialised items you would get with an advanced it. 
+
+Without your Innate immune system, you would be overwhelmed and killed by microorganisms within days or weeks. Your innate immune system has to make crucial decisions at danger:
+
+ - How dangerous an invasion?
+ - What kind of enemy is attacking?
+ - Are more heavy weapons necessary?
+
+These decisions are vital, because they influence what sort of weapons your immune system as a whole will deploy. A bacterial invasion needs a different response than a viral invasion. So while fight is going on, the Innate Immune System gathers data and then it makes the decisions that in many cases will decide your fate. If your innate immune system think an attack is serious enough, it has the power to activate and call second line of defense and join them to the fight.
+
+## Adaptive Immune System
+
+
+ 
+
+
+ 
