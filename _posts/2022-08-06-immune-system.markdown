@@ -58,5 +58,20 @@ In a pleasant environment,  a single bacterium can reproduce once every twenty t
 There are a lot of unfriendly, pathogenic bacteria that try to invade your body and make you sick. They cause a wide an scary variety of diseases from diarrhea and all sorts of gut unpleasantries to tuberculosis or really scary things like the black plague, leprosy or syphilis. If they get the chance, they also use any opportunity to infect your flesh when you injury yourself and get your insides in touch with the environment where they exist, just everywhere. Even today with all the magic of modern medicine, the bacterial infections are responsible for a good chunk of deaths each year.
 
 
-   
+# The Skin as a defense layer
+The life of your skin cells begins around one millimeter deep. Here, the Skin Industrial Complex is situated. In the *basal layer*, stem cells do nothing, but calmly multiply. They are cloning themselves, all day and night, producing new cells that begin a journey from the inside to the outside. The skin stem cells constantly make new skin cells, and each new generation pushes the older ones further up. So your skin cells are constantly pushed upward by younger skin cells emerging below them. The closer they get to the surface, the more the need to become ready to be living defenders. And so as your skin cells mature, they develop long spikes and interlock with the other cells around them to form a dense and impassable wall. Next your skin cells begin facturing lamellar bodies, tiny bags that squirt out fat to create a waterproof coat that covers the cells and the little bit of space that is left between them. The coat does three things: It acts as another physical border that is extremely hard to pass; it makes it easier to dispose of dead skin cell later on; and it is filled with natural antibiotics called *defensins*, which can straight up murder enemies on their own. 
+
+As the skin cells are pushed up further towards the surface they begin preparing for the ir final job: Dying. They become flatter and bigger and begin to stick together even tighter until they merge together into inseparable clumps. And then they shed their water and kill themselves. You could say that the purpose of their life is to die in the right place and become neat carcasses. Up to fifty layers of dead cells, fused together on top of each other, form the dead part of your skin that ideally cover your whole body. 
+Depending on your age, it takes your skin  between thirty and fifty days to completely turn over. Every single second, you shed around 40,000 dead skin cells.
+
+
+When it is warm, humans sweat a lot, which both cools us and also transports a lot of salt to the surface. Most of it is reabsorbed but some of it remains, overall making your skin a pretty salty place, which many microbes dont like. As if that's not enoough, sweat contains even more natural antibiotics that can passively kill microbes.
+
+
+But this is still not all. Another one of the great passive defenses of your skin is that it is covered in a very thin film of acid, appropriately called the **acid mantle**, which is s mixture of sweat and other substances secreted by glands below your skin. The acid mantle is not so harsh that it would hurt you, it just means that the pH of your skin is slightly low and therefore, slightly acidic that is something a lot of microorganisms dont like. The acid mantle has another great passive effect mostly geared towards bacteria: The inside and outside of your body have diffirent pH levels. So if a bacterium adapts to the acidic environment on your skin and then gets an opportunity to enter bloodstrea, for example, through an open wound, it has a problem: Your blood has a higher pH, so the bacterium suddenly finds itself in an environment that it is not adapted to, with very little time to do so, which is considerable challenge to some species. 
+
+A healthy individual's skin holds up to forty diffirent bacteria species, as diffirent areas of your skin are drastically diffirent environments with their own specific climates and temperatures. Overall, an average square centimeter of your skin is home to around *a million bacteria*. 
+
+
+
  
