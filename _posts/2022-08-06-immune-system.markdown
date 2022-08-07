@@ -72,6 +72,10 @@ But this is still not all. Another one of the great passive defenses of your ski
 
 A healthy individual's skin holds up to forty diffirent bacteria species, as diffirent areas of your skin are drastically diffirent environments with their own specific climates and temperatures. Overall, an average square centimeter of your skin is home to around *a million bacteria*. 
 
+# The Scenario of "The Cut"
+
+In this part, we will describe the steps that are happening when you cut some part of your body. I will try to describe step by step for simplicity, however, the reality is much more complicated.
+
 
 
  
