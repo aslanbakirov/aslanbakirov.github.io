@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Immune System"
+title:  "[WIP] The Immune System"
 date:   2022-08-06 09:34:43 +0000
 ---
 
@@ -76,6 +76,16 @@ A healthy individual's skin holds up to forty diffirent bacteria species, as dif
 
 In this part, we will describe the steps that are happening when you cut some part of your body. I will try to describe step by step for simplicity, however, the reality is much more complicated.
 
+Imagine you are hiking to a hill, and suddenly a long ad rusty nail penetrated your shoe and its tip entered to your big toe. Much worse though, the nail was covered with soil and dirt and hundreds of thousands of bacteria that suddenly found themselves beyond the gates of your impenetrable skin border wall. Hundreds of thousands of cells have died, and others are wounded and distressed. These panic signals, the guts of dead cells, and the stench of thousands of bacteria are carried into the surrounding tissue, raising an urgent alarm. 
+     Your Innate Immune system reacts immediately. Sentinel cells are the very first show up -- they were peacefully patrolling the premises when the impact happened and are quickly making their way right to ground zero. These cells are called **Macrophages** and they are the largest immune cells your body has to offer. Physically, Macrophages are  pretty impressive. If an average cell would be the size of a human, Macrophage would be the size of a black rhino. Their purpose is to devour dead cells and living enemies, coordinate defenses, and help heal wounds. As the Macrophages devour one enemy after another they realize that they can at best slow this invasion down, not stop it. And so they begin to call for help, sending out urgent alarm signals, and start preparing the battlefield for reinforcements that will arrive shortly. In the blood thousands of **Neutrophils** have heard the cries for help and smelled the signs of death and begun to move. Immediately they begin hunting and devouring bacteria whole but with much less care for their surroundings. Neutrophils are on a tight timer: Once activate they only have hours before they will die of exhaustion and use weapons do not regenerate. So they make the best of the situation and use them freely -- not only killing enemies but also causing real damage to the tissue they should be protecting in principle. The small wound is already closed superficially as millions of specialized cells from the blood flooded in the battlefield: **Platelets**, blood cells that exist mainly to act as an emergency worker that closes wounds.
 
 
+The cells figthing at the site of infection started a crucial defense process: **Inflammation**. This means they ordered blood vessels to open up and let warm fluid stream into the battlefield. This does a few things: For one, it stimulates and squeezes nerve cells that are deeply unhappy about their situation and send pain signals to the brain, which makes the human aware that something is wrong and injury occurred. 
+
+
+Now, let go back to the battlefield, amond the intruders there is a pathogen. A soil bacteria that is actually able to deal with the immune system response and to multiply quickly. Bacteria are living things and able to react to situations. And so they do, setting off defense mechanisms that make them harder to kill.  The best the Immune system can o is to keep them in check.  So another immune cell now makes a serious decision. It has been acting quietly in the background, monitoring the events. Now, hours after the catastrophe happened and the infection began it is time to shine for them.
+The **Dentritic Cell**, the mighty messenger and intelligence officer of the Innate Immune System. They are shaken up by the chaos and panic, they urgently began collecting samples of the battlefield. Similarly to the Macrophages, Dentritic Cells have long tentacles to catch invaders, and rip them into pieces. But their goal was not to devour them, no, they prepared samples made from the dead intruders, to present their findings to the intelligence centers of the immune system. After a few hours of sampling, Dentritic Cells get on the move, leaving the battlefield behind to get help from the Adaptive Immune System. It takes the Dentritic cell about a day to reach its destination and when it finds what or better, who it is looking for, a beast will rouse from its sleep and all hell will break loose.
+
+# Macrophages and Neutrophils
+Now, it is time to learn more about these damage dealers of the Immune System.  Together they are special class of cells called **phagocytes**, it means "Eating Cell". Macrophage means Great Eater, which is a great fit. Since cells dont have tiny mouths, eating on this level has to mean something else.
  
