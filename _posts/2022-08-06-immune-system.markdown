@@ -4,7 +4,7 @@ title:  "The Immune System"
 date:   2022-08-06 09:34:43 +0000
 ---
 
-*Note and Disclaimer:* This post is just braindump of mine after spending some time reading about human immune system. The topic itself is huge and much more complicated. Tried to keep it as simple as possible, using some analogies. Very much inspired from the book "Immune" by Philipp Dettmer. In addition, this post assumes that the reader possess high level information about basic cell biology and genetics, including DNA, proteins and cell structure (if not, please refer to my other posts about them). We will be focusing on human immune system. 
+*Note and Disclaimer:* This post is just braindump of mine after spending some time reading about human immune system. The topic itself is huge and much more complicated. Tried to keep it as simple as possible, using some analogies. Very much inspired from the book "Immune" by Philipp Dettmer. In addition, this post assumes that the reader possesses high level information about basic cell biology and genetics, including DNA, proteins and cell structure (if not, please refer to my other posts about them). We will be focusing on human immune system. 
 
 # What is the Immune System?
 
@@ -47,5 +47,16 @@ The realm of Adaptive Immune system contains specialised super cells that coordi
 
 In contrast to Innate immune system, your adaptive immune system is not ready yet when you are born. It needs to be trained and refined over many years. It starts as blank slate, and then gets progressively more powerful, only to get weaker as you age. A weak adaptive immune system is one of the main reasons young and old humans are often much more likely to die from diseases than people in the middle of their lives. Mothers actually lend their newborn babies a bit of their adaptive immunity in their mother's milk to help them survive and give them some protection. 
 
+# Meet your Enemies
 
+In modern world, when we are thinking of things that make us sick, we are mostly talking about bacteria or viruses. All sort of invader that is able to give your immune system a run for its money is called a **Pathogen** -- which means "the maker of suffering". So, every microorganism that causes disease is a pathogen, no matter what species, no matter how big or small. And almost everything can become a pathogen under the right circumstances. For example, a regular old bacteria living on your skin might not bother you at all, but can become a pathogen if you are going through chemotherapy and are immunocompromised, making it easy  to invade you. So whenever you read *pathogen*, just remember it means "a thing that makes you sick".
+
+Your immune system is "aware" that there are very diffirent kinds of pathogens, that all require very diffirent responses to get rid of them. The well-known microorganism that your immune system has to deal with is **Bacteria**. Bacteria are single-celled protein robots that come in a wide variety of shapes and sizes and are guided by chemistry and their genetic code. Bacteria are masters of survival and can be found basically everywhere where nutrients are found. Bacteria saturate the soil you walk on, the surface of your desk, they float around in the air. 
+
+
+In a pleasant environment,  a single bacterium can reproduce once every twenty to thirty minutes by dividing into two bacteria. So after four more ours of dividing, tere would be already 8000 of them.
+There are a lot of unfriendly, pathogenic bacteria that try to invade your body and make you sick. They cause a wide an scary variety of diseases from diarrhea and all sorts of gut unpleasantries to tuberculosis or really scary things like the black plague, leprosy or syphilis. If they get the chance, they also use any opportunity to infect your flesh when you injury yourself and get your insides in touch with the environment where they exist, just everywhere. Even today with all the magic of modern medicine, the bacterial infections are responsible for a good chunk of deaths each year.
+
+
+   
  
