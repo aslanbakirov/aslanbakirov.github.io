@@ -91,5 +91,22 @@ Now, it is time to learn more about these damage dealers of the Immune System.  
 When a phagocyte, like a Macrophage, wants to swallow an enemy, it reachs out to it and graps it tightly. Once it has a firm grip, it pulls its victim in, folds a part of its membrane into itself, and engulfs the victim, trapping it in a sort of mini prison that is now inside of Macrophage. The macrophage is equipped with an abundance of compartments that are filled with the equivalent of stomach acid -- substances that dissolve things. These compartments then merge with the tiny prison and pour their deadly contents all over the victim, dissolving it into its components, into amino acids, sugars, and fats that are not only harmless, but even useful. Some become food for Macrophage itself, and others are spat out so other cells can have a meal, too. No wasting resources!
 
 
-Interestingly, the main things Macrophages eat are actually parts of you. Most cells of your body are on a limited life timers to avoid becoming faulty and turning into something bad, like cancer, for example. So every second of your life, around one million of your cells die by controlled cell suicide, called **apoptosis**.
+Interestingly, the main things Macrophages eat are actually parts of you. Most cells of your body are on a limited life timers to avoid becoming faulty and turning into something bad, like cancer, for example. So every second of your life, around one million of your cells die by controlled cell suicide, called **apoptosis**. When cells decide their time has come, they release aspecial signal letting everybody else know that they are done. Then they destroy themselves via apoptosis, which means that they split up into bunch of small, neat packages of cell garbage. Macrophages, attracted by the signals, pick upthe shreds of the former cells and recycle the parts. 
+
+
+Macrophages live up to several months. In your brain, they make up around 15% of all cells and are extra calm, so they dont accidentally damage irreplacable nerve cells that you need for important things like thinking or breathing.
+
+
+The **Neutrophil** is a bit of a simpler fellow. It exists to fight and to die for the collective. It is the crazy spartan warrior of the immune system. Neutrophils are on tight timer, live a few days when they are not needed before they commit controlled suicide. And so every single day 100 billion Neutrophils give up their lives voluntarily and die. And every single day 100 billon more are born, ready to fight for you if necessary.
+
+They can throw acid at enemies and kill themselves to create deadly traps. Neutrophils are densely packed with **_granules_**, which are basically tiny packages filled with a deadly load. You can imagine these granules as little knives and scissors that are made to cut open and criple intruders. So, if a Neutrophil encounters a bunch of bacteria in one place it will just shower them with granules that rip their outside apart.  The problem with this approach is that it is not super specific, and it hits whoever is unlucky enough to be in the way. This often means your own healthy civilian cells :(. But even more crazy thing Neutrophils do in battle is to create deadly nets of DNA, sacrificing themselves in the process. They create **_Neutrophil Extracellular Trap_**, or NET for short. If Neutrophils get the impression that drastic measures are called for, they begin this crazy kind of suicide. First their nucleus begins to dissolve, freeing up their DNA. As it fills up the cell, countless of proteins and enzymes attach to it. Then Neutrophil literally spits out its entire DNA around itself like a giant net. Not only can this net trap enemies in place and hurt them, it also creates a physical barrier that makes it harder for bacteria or viruses to escape or move deeper in the body. Usually the brave Neutrophil dies doing this.
+
+
+Macrophages and Neutrophils have another important job that they share with other parts of the immune system, and that we will discuss in the next section. It is super crucial for your defenses: They cause inflammation, a process so important to your defense and your health. 
+
+
+# Inflammation
+
+
+ 
 
