@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[WIP] The Immune System"
+title:  "The Immune System: Part I"
 date:   2022-08-06 09:34:43 +0000
 ---
 
@@ -125,3 +125,6 @@ The next best way to cause inflammation is more of an active decision: Macrophag
 
 
 To summarize, if your cells are dying unnaturally, if you annoy a Mast cell below the skin, or if your immune system is fighting enemies, they release chemicals that cause inflammation. A flood of fluids and all sort of chemicals, which annoy enemies, attract reinforcements, and make it easier for them to get into the infected tissue, all of which make it easier to defend a battlefield. But inflammation is hard on the body and in many cases presents a real danger to the health of the body. 
+
+
+In this post, we went through basic concepts of immune system, and how this system reacts to "the cut" scenario. In the next part, we will dive a bit deeper and try to understand how do cells go to the battlefield, and some more advanced superpowers of immune system.
