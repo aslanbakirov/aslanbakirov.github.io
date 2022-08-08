@@ -118,6 +118,10 @@ You can tell if you have inflammation through five markers: Redness, heat, swell
 But wait, what exactly is causing inflammation? The first way inflammation starts is through dying cells. Amazingly, your body evolved a way to recognize if a cell dies a natural way or if it died a violent death. The immune system has to assume that cells dying an unnatural death means grave danger, and do death is a signal that causes inflammation. Normally, as we mentioned before, apoptosis is basically a calm suicide that keeps the contents of the cell nice and tidy. But when cells dies in unnatural ways, for example, by being ripped into pieces by a sharp nail, burned to death by a hot pan, the insides of your cells spill all over the place. Certain parts of the guts of your cells, like DNA or RNA, are high alert triggering for your immune system and cause rapid inflammation.
 
 
+Let introduce a very special cell that you might learn to hate later or when we learn more about it--if you ever had a severe allergic reaction where your body did swell up, this cell had most likely hand in it: The **Mast Cell**. Mast cells are large, bloated cells filled with tiny bombs containing extremely potent chemicals that cause rapid and massive local inflammation. For example, the itching you fell when a mosquito bites you was probably caused by chemicals the Mast cell released. 
 
- 
 
+The next best way to cause inflammation is more of an active decision: Macrophages and Neutrophils order inflammation when they are engaged in a battle. This way, as long as fighting is going on, they release chemicals that keep the battlefield flooded and ready to take in fresh reinforcements. But this is also one of the reasons why having any kind of battle going on for a long time is bad. 
+
+
+To summarize, if your cells are dying unnaturally, if you annoy a Mast cell below the skin, or if your immune system is fighting enemies, they release chemicals that cause inflammation. A flood of fluids and all sort of chemicals, which annoy enemies, attract reinforcements, and make it easier for them to get into the infected tissue, all of which make it easier to defend a battlefield. But inflammation is hard on the body and in many cases presents a real danger to the health of the body. 
