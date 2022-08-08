@@ -107,6 +107,17 @@ Macrophages and Neutrophils have another important job that they share with othe
 
 # Inflammation
 
+Inflammation is the universal response of your imune system to any sort of breach or damage or insult. No matter if bacteria or viruses infect your nose, lungs, or gut. No matter if a young tumor kills a few civilian cells by stealing their nutrients or you have an allergic reaction to food, inflammation is the response. 
+
+Inflammation is the red swelling and itching from an insect bite, the sore throat when you have a cold. In a nutshell, its purpose is to restrict an infection to an area and stop it from spreading, but also to help remove damaged and dead tissue and to serve as a sort of expressway for your immune cells and attack proteins directly to the site of infection. Inflammation is a process that makes the cells in blood vessels change their shape, so that plasma, the liquid part of your blood, can flood into a wounded or infected tissue. 
+
+
+You can tell if you have inflammation through five markers: Redness, heat, swelling, pain, and loss of function. In the scenario, we described before, the injured toe becomes hot as the blood brings extra body heat. This heat does useful things to you: Most microorganisms do not like it hot -- so making wound hotter slows them down and makes their lives stressful. In contrast, your civilian repair cells like the extra temperature very much as it speeds up their metabolism and enables your wound to heal faster. 
+
+
+But wait, what exactly is causing inflammation? The first way inflammation starts is through dying cells. Amazingly, your body evolved a way to recognize if a cell dies a natural way or if it died a violent death. The immune system has to assume that cells dying an unnatural death means grave danger, and do death is a signal that causes inflammation. Normally, as we mentioned before, apoptosis is basically a calm suicide that keeps the contents of the cell nice and tidy. But when cells dies in unnatural ways, for example, by being ripped into pieces by a sharp nail, burned to death by a hot pan, the insides of your cells spill all over the place. Certain parts of the guts of your cells, like DNA or RNA, are high alert triggering for your immune system and cause rapid inflammation.
+
+
 
  
 
