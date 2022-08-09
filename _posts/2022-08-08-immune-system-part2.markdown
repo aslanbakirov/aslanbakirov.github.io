@@ -30,5 +30,19 @@ We sort of have elegantly skipped over a question: How exactly do cytokines conv
 In a nutshell, receptors are protein recognition machines that stick in the membrane of cells. A part of them is outside the cell and another part is inside the cell. Actually, about half of the surface of your cells is covered by myriads of diffirent receptors for all sorts of functions, from taking in certain nutrients to communicating with other cells or as triggers for a variety of behaviours. In a simplified way, receptors are sort of the sensory organs of cells that let the insides of the cells know what happened on the outside. A sequence of proteins interacting with each other that end up signalling the genes of the cell to be either more or less active. 
 
 
-# The Complement System
+# The Killer Army: The Complement System
+
+Basically, the complement system is an army of over thirty diffirent proteins(not cells!), that work together in an elegant dance to stop strangers from having a good time inside your body. About fifteen quintrillion complement proteins are saturating every fluid of your body right now. Complement proteins are tiny and they are everywhere. If a cell were the size of a human a complement protein would barely be the size of a fruit fly egg. Since it is even less able to think and make decisions than your cells are, it is guided by absolutely biochemistry. And yet it is able to fulfill a variety of diffirent objectives. In a nutshell, the complement system does three things:
+
+ - It injuries enemies and makes their lives miserable and unfun
+ - It activates immune cells and guides them to invaders so they can kill them
+ - It rips holes into things until they die.
+  
+
+But how? They do nothing until they get activated. Imagine complement proteins as millions of matches that are stacked very close together. If a single match catches fire, it will ignite the matches around it, these ignite more, and suddenly you have a huge fire. In the world of complement proteins, catching fire means changing their shape. As we said before, the shape of a protein determines what it can and can't do, what they can interact with, and in what way. In their passive shape complement proteins do nothing. In their active shape, however they can change the shape of other complement proteins and activate them.
+
+
+Lets look at what this looks like in reality. Think back to the battlefield, the injury from the nail.  
+
+ 
 
