@@ -54,9 +54,25 @@ Bu there is more, do you remember the other part of that broke off C3? This one 
 
 # Cell Intelligence: The Dendritic Cell
 
- 
+These pathogenic soil bacteria in your infected wound nourish themselves with the resources that were meant for civilian cells and begin defecating everywhere, releasing chemicals that hurt or kill cells, and defenders. The complement proteins that came with the first waves of fluids from blood have been largely used up and more and more of the immune cells that fought for hours and days are giving up, and dying of exhaustion. 
 
 
+While the battle has been raging, the intelligence portion of your innate immune system has been quietly doing its job in the background: **The Dentritic Cell** is on its way. Dentritic cells are large cells with starfish-like arms flopping around everywhere, drinking and vomitting constantly. But it turns out they have two of the most crucial jobs of your immune system:
+
+ - They identify what kind of enemy is infecting you, if it is a bacterium or a virus or a parasite.
+ - They make the decision to activate the next stage of your defense: Adaptive immune cells, your heavy, specialized weapons that need to come in if your innate immune system is in danger of being overwhelmed. 
+
+
+The Dentritic Cell is always looking for a few very particular tastes -- the flavor of bacteria or viruses, the taste of dying civilian cells, or the taste of alarm cytokines from fighting immune cells. When it takes a sip and recognizes any of these flavors, it knows that danger is present and goes into a more active sampling mode. Now the dentritic cell begins swallowing. It only has a limited amount of time to sample. Similar to Macrophages, it begins phagocytosis, grabbing and swallowing whatever garbage or enemies that are floating around the battlefield. But with one majot diffirence: The Dentritic Cell is not trying to digest the enemies, it is breaking them down into pieces but it is doing so to collect samples and to identify them. Not only is the Dentritic Cell able to distinguish if an enemy is, for example, a bacterium it can distinguish between diffirent species of bacteria and knows what sort of defense is needed against them (how?? we will learn more about, later)
+
+
+Once Dentritic cell collect enough sample, it leaves the battlefield -- its destination is the great gathering place, the intelligence center where millions of potential partners await. Once Dentritic cell is on its way, it has become something like a snapshot of the state of the battlefield. A living information carrier of what was going on at the site of infection when they took their samples. In a nutshell, the Dentritic Cell delivers *context* to the Adaptive Immune System. One important point to mention, if it continued to sample while it was in transit, this could cause two issues:
+
+ - the samples it had collected would be diluted by samples from the journey, and the level of danger would not be as obvious from the snapshot.
+ - if the cell sampled outside the battlefield, it could pick up harmless material from your body and accidently cause an *autoimmune* disease.
+
+
+In any way, the battlefield snapshot, the living information carrier needs to be delivered to a lymph node. To get there, the Dentritic Cell has to enter the Immune System Highway: **The Lymphatic System**, which is a great opportunity to get to know your internal plumbing. 
 
 
 
