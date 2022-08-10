@@ -100,7 +100,7 @@ On top of serving as an emergency reservoir and a barracks, the spleen really is
 **Side Note:** About 30% of people happen to have a second spleen that is tiny but will grow and take over the job if the first one is removed. 
 
 
-The **The Tonsils** are known to people only as wierd lumpy thing in the back of their throats that sometimes have to be surgically removed in children. The tonsils are something like a center of immune system intelligentsia in your mouth. A lot of diffirent immune cells that we will get to know, work here to keep you healthy. To get samples to them, your tonsils have deep valley where tiny pieces of food can get stuck. **Microfold* cells, very curious cells that grab all sorts of stuff from your mouth and pull it deep into the tissue, where they show it to the rest of the immune system to check out. In a nutshell, what you really need to know about tonsils is that they are immune bases that actively sample what comes into your body.*
+The **The Tonsils** are known to people only as wierd lumpy thing in the back of their throats that sometimes have to be surgically removed in children. The tonsils are something like a center of immune system intelligentsia in your mouth. A lot of diffirent immune cells that we will get to know, work here to keep you healthy. To get samples to them, your tonsils have deep valley where tiny pieces of food can get stuck. **Microfold** cells, very curious cells that grab all sorts of stuff from your mouth and pull it deep into the tissue, where they show it to the rest of the immune system to check out. In a nutshell, what you really need to know about tonsils is that they are immune bases that actively sample what comes into your body.
 
 
  
