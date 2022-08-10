@@ -74,7 +74,33 @@ Once Dentritic cell collect enough sample, it leaves the battlefield -- its dest
 
 In any way, the battlefield snapshot, the living information carrier needs to be delivered to a lymph node. To get there, the Dentritic Cell has to enter the Immune System Highway: **The Lymphatic System**, which is a great opportunity to get to know your internal plumbing. 
 
+# The Lymphatic System
 
+Now, lets talk about the megacity and superhighway network of your immune system: *The Lymphatic System*. Just like your cardiovascular system, it does have a far-reaching network of vessels and its own special fluid. And without it, you would be equally dead as without a heart. 
+
+
+Your network of *lymphatic vessels* is iles long and covers your entire body. It is a sort of partner system to your blood vessels and blood. The main job of your blood is to carry oxygen to every cell in the body and to do that, some of the blood needs to actually leave your blood vessels and drain into your tissue and organs to deliver the goods directly to your cells. Most of the blood is then reabsorbed by your blood vessels. But some of its liquid part remain in the tissue between your cells and need to be transported back into circulation again. The lymphatic system is responsible for this job. It sort of constantly drains your body and tissues of excess fluid and delivers it back to the blood where it ca circulate again. There is only one direction, as very gradually small lymph vessels merge into bigger ones, which then continue to merge into larger ones. Since the lymphatic system has no real heart, the water flows slowly. 
+
+
+The liquid transported through the lymphatic system is called **lymph**. When lymphatic system drains the excess liquid between your cells, it picks up all sorts of detritus and garbage: damaged and destroyed body cells, dead or sometimes even alive bacteria or other invaders, and all sort of chemical signals and stuff hanging out. But while the lymph carries many diffirent tings, maybe its most important job is to serve as *superhighway for immune system.* Every second of your life, billions of them are travelling through it, looking for a job. These jobs are given out in the *megacities of your immune system* that the lymph must pass through before it can become part of the blood again: Your bean-shaped **Lymph Node** -- the organs of your immune system. You have around 600 of them spread all over your body. 
+
+
+The lymph node megacities are like huge dating platforms where the Adaptive Immune system meets the Innate Immune system for hot dates. Adaptive immune cells go and look for their ideal match. This is where the traveling Dentritic Cell arrives from the battlefield.
+
+
+### The Spleen and the Tonsils
+
+The **Spleen** is a sort of large lymph node, about a size of peach, but bean shaped. The spleen is the place in your body where 90% of your old blood cells are filtered and recycled when their life comes to an end. On top of that, your spleen stores an emergency reserve of blood, but a cup, which is invaluable if something bad happens and you could use a bit of extra blood in you body. In addition, 25-30% of your red blood cells and 25% of your platelets are stored here for emergency. 
+
+
+But the spleen is not just an emergency blood storage for injuries but also one of the centers of your soldier cells. The main home for another immune cell we did not mention before, even though it did help out during the cut: **Monocyte**. Monocytes are basically reinforcement cells that can transform into Macrophages and Dentritic Cell. If you suffer an injury and an infection that drains and kills a lot of your Macrophages, they (Monocytes) come in as backup. Once they enter the site of infection, they stop being Monocytes, and transform into fresh Macrophages.\
+On top of serving as an emergency reservoir and a barracks, the spleen really is just huge lymph node that filters your blood and does all other things lymph nodes do. So, when we discuss the function of lymph nodes in more detail, just remember that your spleen does the same thing, only with your blood.
+
+
+**Side Note:** About 30% of people happen to have a second spleen that is tiny but will grow and take over the job if the first one is removed. 
+
+
+The **The Tonsils** are known to people only as wierd lumpy thing in the back of their throats that sometimes have to be surgically removed in children. The tonsils are something like a center of immune system intelligentsia in your mouth. A lot of diffirent immune cells that we will get to know, work here to keep you healthy. To get samples to them, your tonsils have deep valley where tiny pieces of food can get stuck. **Microfold* cells, very curious cells that grab all sorts of stuff from your mouth and pull it deep into the tissue, where they show it to the rest of the immune system to check out. In a nutshell, what you really need to know about tonsils is that they are immune bases that actively sample what comes into your body.*
 
 
  

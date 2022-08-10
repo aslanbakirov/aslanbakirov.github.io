@@ -4,7 +4,7 @@ title:  "The Immune System: Part I"
 date:   2022-08-06 09:34:43 +0000
 ---
 
-*Note and Disclaimer:* This post is just braindump of mine after spending some time reading about human immune system. The topic itself is huge and much more complicated. Tried to keep it as simple as possible, using some analogies. Very much inspired from the book "Immune" by Philipp Dettmer. In addition, this post assumes that the reader possesses high level information about basic cell biology and genetics, including DNA, proteins and cell structure (if not, please refer to my other posts about them). We will be focusing on human immune system. 
+*Note and Disclaimer:* This post is just braindump of mine after spending some time reading about human immune system. The topic itself is huge and much more complicated. Tried to keep it as simple as possible, using some analogies. These series of posts are Very much inspired from the book "Immune" by Philipp Dettmer (The book explains it much better than me, mine is just summary and includes some interpretation). In addition, this post assumes that the reader possesses high level information about basic cell biology and genetics, including DNA, proteins and cell structure (if not, please refer to my other posts about them). We will be focusing on human immune system. 
 
 # What is the Immune System?
 
