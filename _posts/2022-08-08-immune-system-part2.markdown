@@ -42,7 +42,24 @@ Basically, the complement system is an army of over thirty diffirent proteins(no
 But how? They do nothing until they get activated. Imagine complement proteins as millions of matches that are stacked very close together. If a single match catches fire, it will ignite the matches around it, these ignite more, and suddenly you have a huge fire. In the world of complement proteins, catching fire means changing their shape. As we said before, the shape of a protein determines what it can and can't do, what they can interact with, and in what way. In their passive shape complement proteins do nothing. In their active shape, however they can change the shape of other complement proteins and activate them.
 
 
-Lets look at what this looks like in reality. Think back to the battlefield, the injury from the nail.  
+Lets look at what this looks like in reality. Think back to the battlefield, the injury from the nail. A huge amount of damage was done and the Macrophages and Neutrophils ordered inflammation, which made the blood vessels relese fluid into the battlefield. This fluid carries millions of complement proteins that quickly saturate the wound. Now the first match needs to catch fire. In reality, this means that a specific and very important complement protein needs to change its shape. It has the name **C3**. 
+
+All you need to know for now, is that C3 is sort of the most important complement part, the first match needs to catch fire to start the cascade. When it does, t breaks into two smaller proteins with different shapes that are now activated. The first match is lit. 
+
+One of these C3 parts, called **C3b**, is like a seeker missile. It has a fraction of a second to find a victim, or it will shut itself off. It if does find a target, say a bacterium, it anchors itself very tightly to the bacterium's surface and does not let go. By doing so the C3b protein changes its shape again, which gives new powers and abilities. In its new form it is able to grab other complement proteins, change their shape, merge with them. In a few seconds, thousands of complement proteins cover the bacteria
+
+
+Bu there is more, do you remember the other part of that broke off C3? This one is called **C3a*. It is a message, and alarm signal, just like cytokines. Thousands of C3a flood aday from the site of battle, screaming for attention. Passive immune cells like Macrophages and Neutrophils begin smelling them, picking them up with special receptors. In this case, complement C3a does exactly the same job as citokynes. So far the complement system has slowed down the invaders (C3b flies covering their skin), and called for help. Now the complement system begins to actively help to kill the enemy. 
+
+
+# Cell Intelligence: The Dendritic Cell
+
+ 
+
+
+
+
+
 
  
 
