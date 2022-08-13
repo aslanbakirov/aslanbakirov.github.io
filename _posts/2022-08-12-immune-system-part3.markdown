@@ -25,4 +25,32 @@ For example, lets say a T Cell receptor can connect to a protein on the surface 
 
 
 As you can imagine, the body takes this issue extemely seriously and came up with the Murder University of the Thymus to address it. After a fresh and young T cell has been born, it travels to the university and begins its training which consists of three steps, or better three tests:\
-    The first 
+The first test is basically just making sure the T Cells have the ability to make working T Cell receptors (recetor is functional or not).\ 
+The T Cells that pass test one have functional receptors. Great job so far! The second test is called  _positive selection_: Here the teacher cells check if the T cells are really good at recognizing the receptors of the cells they will need to work with.  Imagine this part as if the teacher is checking if the pens the students brought are full of ink. Once again, death is the punishment for failing second test.\
+After two tests, the third test is _Negative selection_. The final exam is simply: Can the T cell recognize _self_?. Can its receptor connect to the main proteins inside the body? The only acceptable answer is "No, not at all".\
+So in the final exam the T cells are presented with all sorts of protein combinations that are used by the cells of your body. The way this happens is pretty fascinating by the way -- the teach cells in the Thymus that do the testing have a special license to make all sorts of special proteins that usually are made only in organs like heart, pancreas, or the liver and also hormones, like insulin for example. This way they can show the T cell all kinds of proteins that are marked as  _"self"_. If a T Cell is able to recognize any of these self-proteins, then they are taken out back and shot in the head immediately. 
+
+
+Unfortunately, yor Murder University is already in the process of shutting down. Your Thymus basically begins shrinking and withering away when you are a small child. Every year more Thymus cells turn into fat cells or just worthless tissue. The university closes more and more departments and gets worse as you age, until around the ripe age of eighty five, your T Cell uiversity closes its gates for good. 
+
+# Antigen Presentation
+
+When an infection occurs, your immune system determines which specific defense is needed and how much of it. The adaptive immune system works with Innate immune system to find the few cells that have the right receptors for this specific invasion, locate them among billions of others in your body, and then rapidly produce more of these cells. How does it do this? By preparing a _presentation_.\
+Your Adaptive immune system does not make any real decisions about who to fight and when it is time to activate -- this is the Innate immune system's job, and this is where the Dentritic Cell comes into play. When an infection happens it covers itself with a selection of enemy's antigens and tries to find a Helper T cell that is able to recognize one of the antigens with its specific receptors. And this is exactly  the reason why the Dentritic cell is so crucially important. Without Dentritic cells, there would be no second line of defense. 
+
+
+The first few hours of an infection, the Dentritic cell samples the battlefield and collects information about the enemy, which is a nice way of saying that it swallows enemies and disassemblies them into their parts, or _antigens_. The Dentritic Cell is an **antigen-presenting cell**.\
+The Dentritic cell then travels through the lymphatic system to _present them to the Adaptive Immune System, or more precisely, to Helper T Cells_.\
+An antigen-presenting cells have one more thing in common: A very special molecule that is as important Toll-Like Receptors, called **Major Histocompatibility Comlpex Class II**. Or in short, _MHC class II_. You can imagine the MHC class II receptor as a _hot dog bun_ that can be filled with a tasty _wiener_. The wiener in this metaphor is the antigen. 
+[Antigen Representation](/assets/MHC.jpeg)
+ 
+
+
+
+
+
+
+
+  
+
+
