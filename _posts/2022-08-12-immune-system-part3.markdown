@@ -20,3 +20,9 @@ We met one group of T cells on the battlefield before, briefly, when they came r
 
 _The Adaptive immune system is mixing gene segments to produce an amazing variety of diffirent receptors, able to connect to every possible protein, in this context called **antigens**, in the unvierse. This means that each individual T Cell is born with ONE specific type of receptor, able to recognize ONE specific antigen._ But there is a vital flow:  With so many diffirent receptors there are guaranteed to be a large number of T cells with receptors that are able to connect to proteins from your OWN cells. This is not a theoretical danger, but the cause of a number of very real and serious diseases that millions of people are suffering from right now called **autoimmune** diseases.
 
+
+For example, lets say a T Cell receptor can connect to a protein on the surface of a skin cell, it would not understand that it is connecting to a friend. It would just try to kill it. Or worse, since there are quite a lot of skin cells in the human body, it would think a large attack was going on with enemies everywhere, and alert the rest of the immune system to go into attack mode, and cause inflammation and all sorts of chaos. 
+
+
+As you can imagine, the body takes this issue extemely seriously and came up with the Murder University of the Thymus to address it. After a fresh and young T cell has been born, it travels to the university and begins its training which consists of three steps, or better three tests:\
+	The first 
