@@ -42,7 +42,7 @@ Your Adaptive immune system does not make any real decisions about who to fight 
 The first few hours of an infection, the Dentritic cell samples the battlefield and collects information about the enemy, which is a nice way of saying that it swallows enemies and disassemblies them into their parts, or _antigens_. The Dentritic Cell is an **antigen-presenting cell**.\
 The Dentritic cell then travels through the lymphatic system to _present them to the Adaptive Immune System, or more precisely, to Helper T Cells_.\
 An antigen-presenting cells have one more thing in common: A very special molecule that is as important Toll-Like Receptors, called **Major Histocompatibility Comlpex Class II**. Or in short, _MHC class II_. You can imagine the MHC class II receptor as a _hot dog bun_ that can be filled with a tasty _wiener_. The wiener in this metaphor is the antigen. 
-[Antigen Representation](/assets/MHC.jpeg)
+ ![Antigen Representation](/assets/MHC.jpeg)
  
 
 
