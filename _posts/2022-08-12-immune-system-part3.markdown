@@ -123,8 +123,37 @@ Basically, these are the steps happens:
   4. An activated B Cell that is presenting hundred of diffirent antigens needs to meet a T Cell that can recognize one of these antigens with its specific T Cell receptor, which is the second signal for the B Cell. 
 
 
-Only if this exact sequence of events occurs does a B Cell get activated for real. THIS IS IMPRESSIVE! Once more: THIS IS MIND-BLOWING! 
+Only if this exact sequence of events occurs does a B Cell get activated for real. **THIS IS IMPRESSIVE!** Once more: **THIS IS MIND-BLOWING!** 
 
+
+Your B cell that was properly activated through the two-factor authentication now changes. It begins to swell, to almost double its size, and transforms into its final form: **Plasma Cells**.\
+The Plasma Cell now begins producing antibodies for real. It can release up to 2000 antibodies per second that saturate the lymph and blood and the fluids between the tissue. 
+
+# Antibodies
+
+
+Antibodies are among the best and most specialized weapons your immune system has at its disposal. Produced by B cells, antibodies themselves are not particularly deadly. They are actually nothing more than mindless protein bundles that can stick to antigens. But this they do with extreme efficiency.\
+You can imagine them as a sort of hashtag of death. The most common antibodies are shaped like little crabs with two pincers and they are seriously pretty tiny. In a sense they are sort of comparable to the proteins of the complement system -- which are also nothing more than tiny proteins that float around -- but with one big difference: Complement proteins are generalists, while Antibodies are specific. \
+Antibodies are extremely good at grabbing on to the enemies they are made for  with their two pincers. And they have cute little butts that are extremely good at connecting to your immune cells. The pincers are for enemies, the cure butts are for friends. \
+With these tools Antibodies do multiple things: First, similar to complement, they can _opsonize_(make foreign cell suspectible to phagocytosis) enemies. In this context, it means that Antibodies swarm and enemy and grab them, which makes their victim more delicious for your soldier cells to eat.\
+When an antibody army arrived at our infected toe, the bacteria that were covered by them were equally unhappy with thier life situation and they are helpless. But antibodies dont only make pathogens helpless, they also can maim/injure them and make them unable to move. Or in the case of viruses antibodies can directly neutralize them and make them unable to infect cells. 
+
+
+Here another safety layer of your immune system comes in. The cute butts of antibodies that are for friends are in a sort of "hidden mode" when antibodies just float around, so immune cells can not just pick them up from fluids. As soon as an antibody has grabbed a victim with its tiny pincers, its butt changes its shape and is now able to bind to immune cells. This is pretty important since your body is teeming with antibodies at any time, and it would cause all sort of chaos if your immune cells bind to the antibody-butt just randomly. \
+Another thing antibodies can do with their cute butts is to activate the complement system. Remember, complement is just kind of floats passively in the lymph. And some bacteria are able to hide themselves from he complement system so that it does not activate close to them. Antibodies are able to activate the complement system and sort of attract it to the bacteria, increasing its efficiency wildly. Again we see the principle of our two immune systems: _The innate part does the actual figthing, but the adaptive part makes it more efficient with deadly precision_.\
+
+
+Antibodies are not just tiny crabs though. There are multiple classes that actually do very diffirent things and are used for diffirent situations. I will not expain them in detail, however will mention their names for curious readers.
+ - IgM Antibodies: The first Defenders on Site
+ - IgG Antibodies: The specialists
+ - IgA Antibodies: Making poop and Protecting Babies
+ - IgE Antibodies: Allergy haters
+
+
+# Conclusion
+
+
+  
 
  
 
