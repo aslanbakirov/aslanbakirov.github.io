@@ -79,7 +79,20 @@ Remember we followed only one group from the lymph node to the battlefield. Ther
 
 # B Cells and Antibodies
 
- 
+B Cells are large, blob like fellows that share a few characteristics and properties with T Cells, namely that they originate in the bone marrow and that they have to undergo the same brutal and deadly education-- only it does not happen in the Thymus but directly in the bone marrow. 
+
+
+Just like the their T Cell buddies, all your B Cells combined come with at least _hundreds of millions to billions of diffirent receptors for millions of diffirent antigens_. And just like T Cells, every single individual B Cell has one specific receptor that is able to recognize on spefici antigen.\
+What makes B Cells special, and very dangerous for friends and foes, is that they produce the most potent and specialized weapon the immune system has at its disposal: **Antibodies**. Antibodies are weird things and pretty complex and fascinating, so we will discuss them in detail later, but for now, in a nutshell -- *Antibodies are basically B Cell receptors*. Antibodies themselves are a bit like crab-like sniper rifles, as they have been made against a specific antigens and therefore a specific enemy.\
+
+
+But wait, how can something be a receptor and a weapon that floats around at the same time? So basically, antibodies are stuck to the surface of B Cells and work as their B Cell receptors, which means that they can stick to an antigen and activate the cell. Once a B Cell is activated it begins to produce thousand of new Antibodies and starts vomitting them out, so they can attack enemies -- up to 2000 per second. All antibodies are produced this way. Lets focus on B Cells for now, we will talk Antibodies in detail in the next section. 
+
+
+So as we said in the beginning B Cells are born in your bone marrow where they mix and recombine the gene segments responsible for their _B Cell receptors_ to be able to connect to one specific antigen. After they did that, similarly to T Cells, they have to undergo a harsh and deadly education to make sure that they are not able to connect to the proteins and molecules of your body. The survivors become travelling **Virgin B Cells**, inactive cells that move through your lymphatic system every day, just like T Cells. But this is where the similarities betwee T and B Cells end.
+
+
+
 
 
 
