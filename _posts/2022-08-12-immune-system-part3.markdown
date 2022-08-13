@@ -63,7 +63,23 @@ T Cells have a much more varied set of jobs than the Macrophages or Neutrophils 
 T Cells are travellers that start their lives out in the bone marrow, where they mix and match the gene fragment that create their unique T Cell receptors, before they visit the Murder University of the Thymus to be educated. If the T Cell survive their education they move through your lymphatic megacity network, looking for an antigen that is exactly right and to get the encougaring kiss from a Dentritic Cell, to get activated.\ 
  
 
-  
+T Cells travel the whole of your lymphatic system once per day, so the chances of meeting exactly the right Dentritic Cell with matching antigen to the T cell receptor works out just fine. When this meeting happens the T Cell activates, and the hell breaks loose. \
+For now we will just talk about the **Helper T Cell** to keep things simple, but we will get to know the classes of T Cells much more later on. We talked about the Helper T Cells already but now we are going to get a fuller picture.
+
+
+The Helper T Cell can not stay alone if it wants to help beat back the infection, so its first job is to make more of itself. What we will pretty casually describe in the next two chapters is called the **_Clonal Selection Theory_**. The theory is basically goes like this:\
+Your activated T Cell leaves the Dentritic Cell that activated it behind and wanders to a diffirent part of the Lymph Node where it begins the process of cloning itself. It divided over and over again, multiplying as fast as it can. Withing hours there are thousands of them. Because each of the clones has the same unique T Cell receptor like the first Helper T Cell that got activated, your immune system now has thousands of cells with this unique receptor.\
+Once enough clones have been made, the individual cells split into two groups: Let us follow the first group now, we will come back to the second one later! They need a moment to orient themselves and take a deep sniff of cytokines and danger signals that have been carried by the lymph to the lymph node, and then they follow the chemical track to the battlefield as quickly as they can.\
+Around five days to a week after the wound was inflicted Helper T Cells arrive at the site of infection. They act as commanders and play the role of amplifiers. Helper T Cells do not just put the Macrophages into Killer mode, and keep them alive. Helper T Cells can reset Macrophages suicide timer over and over again, as long as danger is present, they will tell your exhausted warriors to carry on by restimulating them over and over again. \
+When the battle won, the last thing most Helper T Cells do at the battlefield is to kill themselves, except a few dont. Some Helper T Cells become **Memory Helper T Cells**. Whenever you hear that you are immune to a disease, this is what this means. It means that you have living memory cells that remember a specific enemy. And that enemy might come back, so they stick around and become powerful guardians. Memory Cells are able to recognize a familiar enemy much quicker than the Innate Immune System ever could. In case of another infection, this maes the long trip of the Dentritic Cell to the lymph node unnecessary because these Memory Helper T Cells can immediately activate and call for heavy reinforcements.
+
+
+Remember we followed only one group from the lymph node to the battlefield. There was a second group that remained and what they are about to do might be even more important: Activating some of your most immune weapons. The mighty **B Cells**, your living weapon factories.
+
+
+# B Cells and Antibodies
+
+ 
 
 
 
