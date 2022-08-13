@@ -25,4 +25,4 @@ For example, lets say a T Cell receptor can connect to a protein on the surface 
 
 
 As you can imagine, the body takes this issue extemely seriously and came up with the Murder University of the Thymus to address it. After a fresh and young T cell has been born, it travels to the university and begins its training which consists of three steps, or better three tests:\
-	The first 
+    The first 
