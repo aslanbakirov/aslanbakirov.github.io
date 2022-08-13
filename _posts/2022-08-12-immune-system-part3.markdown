@@ -48,7 +48,22 @@ An antigen-presenting cells have one more thing in common: A very special molecu
 Helper T cells are able to recognize an antigen only if it is presented in an MHC class II molecule. This makes sure that Helper T Cells can not just get activated by accident because they pick up antigens that float around freely i the blood or lymph. They need to be presented with an antigen that sits in an MHC class II, from an antigen-presenting cell. 
 
 
-So back to the battlefield, where soldiers are engaged in an epoc battle, Dentritic Cells awallow a cross section of everything floating around, including enemies. If they grab a bacterium they rip it into small pieces, antigens (wieners), and put them into MHC class II molecules (hot dog buns) that cover its outsides. Then the Dentritic Cell makes its way through the lymphatic system to the closest lymph node to look for a Helper T Cell. When a Helper T Cell happens to have the right T cell receptor, with just the right shape that recognizes the antigen in the MHC class II molecule, it will connect to it. This is pretty exciting moment, the Dentritic Cell atcually has found the right Helper T Cell out of billions. But it still NOT enough to activate Helper T Cell, a second signal is necessary, communicated by another set of receptors on both cells.  
+So back to the battlefield, where soldiers are engaged in an epoc battle, Dentritic Cells awallow a cross section of everything floating around, including enemies. If they grab a bacterium they rip it into small pieces, antigens (wieners), and put them into MHC class II molecules (hot dog buns) that cover its outsides. Then the Dentritic Cell makes its way through the lymphatic system to the closest lymph node to look for a Helper T Cell. When a Helper T Cell happens to have the right T cell receptor, with just the right shape that recognizes the antigen in the MHC class II molecule, it will connect to it. This is pretty exciting moment, the Dentritic Cell atcually has found the right Helper T Cell out of billions. But it still NOT enough to activate Helper T Cell, a second signal is necessary, communicated by another set of receptors on both cells.\
+This second signal is like a gentle kiss from the Dentritic Cell. It is another confirmation signal that clearly communicates again: "This is real, you are really properly activated!". Why is that so important tat we mention it here? This is another security mechanism that prevents Helper T Cells from activating accidentally -- only if a Dentritic Cell, that is representing Innate Immune System here, is activated by real danger is the Adaptive Immune System, represented by the Helper T Cell, supposed to activate. 
+
+
+Dentritic Cells are snapshots of a battlefield in a moment in time. Once one leaves, it stops sampling and is locked in. After arriving in a Lymph Node, the Dentritic Cell has about a week to find a T Cell to activate before an internal timer runs out and it kills itself, as so many immune cells do. Basically, by sending fresh snapshots or newspapers, every few hours and eventually deleting them, your immune system collects and delivers a constant stream of fresh information about the battlefield. By deleting it regularly it makes sure not to operate on old information. 
+
+# Awakening the Adaptive Immune System: T Cells
+
+In this section, we will talk about T Cells classes and their details.\
+T Cells have a much more varied set of jobs than the Macrophages or Neutrophils we got to know earlier. There are multiple classes of T Cells: _Helper T Cells, Killer T Cells, and Regulatory T Cells each able to specialize even more into various subclasses_, for every possible kind of infection.
+
+
+T Cells are travellers that start their lives out in the bone marrow, where they mix and match the gene fragment that create their unique T Cell receptors, before they visit the Murder University of the Thymus to be educated. If the T Cell survive their education they move through your lymphatic megacity network, looking for an antigen that is exactly right and to get the encougaring kiss from a Dentritic Cell, to get activated.\ 
+ 
+
+  
 
 
 
