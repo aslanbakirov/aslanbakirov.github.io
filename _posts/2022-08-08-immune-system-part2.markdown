@@ -110,4 +110,16 @@ Lets again go back to the battlefield. The battlefield is a chaos of dead civili
 But this is not all, another tiny army -- this time directly made by the Adaptive Immune System -- has joined the fight. Counting in millions, it floods the battlefield, dashing against the enemies. The specialist forces of  **Antibodies** have arrived! Although they are made from proteins just like complement, antibodies are very diffirent. In this case, antibody's purpose is to maim and disarm this exact kind of bacteria that is present right now at the site of infection. Now, the battle is won. Now the cytokine whisper of the T cells slowly subsides and the Macrophages start to feel tired. The soldiers around it, mostly Neurtophils that fought bravely start killing themselves. The remains of the dead Neutrophils are cleaned up by fresh Macrophages that will take their place as the new guardians of the tissue. 
 
 
-ON the human scale, a few days after your unfortunate encounter with the rusty nail, you wake up and notice that your toe is much better. The swelling has gone away, the wound has grown over and nothing left, business is as usual.
+On the human scale, a few days after your unfortunate encounter with the rusty nail, you wake up and notice that your toe is much better. The swelling has gone away, the wound has grown over and nothing left, business is as usual.
+
+# Receptors
+
+All living things on earch are made fromm the basic parts, but mostly proteins. Proteins can have countless diffirent shapes, which you can imagine as 3D puzzle pieces. To recognize a bacteria and to grab it, your immune cells need to connect to the protein puzzle pieces of bacteria.
+
+
+Your Innate Immune System is able to recognize some of the common protein puzzle pieces our enemies use with those special receptors called **Toll-Like Receptors**. But this somewhat limits the range of the Innate Immune System, as it is only able to recognize the structures that can connect to the Toll-Like Receptors. Nothing more, nothing less. In the language of immunology, a protein piece that is recognized by the immune system is called an **_antigen_**. There are hundreds of millions of possible antigens that your Innate immune system does NOT recognize and through the magic of evalution there will always be new ones created in the future. Just to remember: _An Antigen is a piece of an enemy that your immune system can recognize_. 
+
+
+However, your Adaptive Immune System can generate cells that can recognize all possible antigens possible.  Every possible antigen an enemy could make. But what is stopping adaptive immune system from developing receptors that are able to recognize _self_, the parts of your own body? It seems like the cells that Adaptive Immune System creates need some education. In the next part, we will go though this education system.
+
+ 
