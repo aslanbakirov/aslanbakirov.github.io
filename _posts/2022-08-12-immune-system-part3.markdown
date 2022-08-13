@@ -89,12 +89,32 @@ What makes B Cells special, and very dangerous for friends and foes, is that the
 But wait, how can something be a receptor and a weapon that floats around at the same time? So basically, antibodies are stuck to the surface of B Cells and work as their B Cell receptors, which means that they can stick to an antigen and activate the cell. Once a B Cell is activated it begins to produce thousand of new Antibodies and starts vomitting them out, so they can attack enemies -- up to 2000 per second. All antibodies are produced this way. Lets focus on B Cells for now, we will talk Antibodies in detail in the next section. 
 
 
-So as we said in the beginning B Cells are born in your bone marrow where they mix and recombine the gene segments responsible for their _B Cell receptors_ to be able to connect to one specific antigen. After they did that, similarly to T Cells, they have to undergo a harsh and deadly education to make sure that they are not able to connect to the proteins and molecules of your body. The survivors become travelling **Virgin B Cells**, inactive cells that move through your lymphatic system every day, just like T Cells. But this is where the similarities betwee T and B Cells end.
+So as we said in the beginning B Cells are born in your bone marrow where they mix and recombine the gene segments responsible for their _B Cell receptors_ to be able to connect to one specific antigen. After they did that, similarly to T Cells, they have to undergo a harsh and deadly education to make sure that they are not able to connect to the proteins and molecules of your body. The survivors become travelling **Virgin B Cells**, inactive cells that move through your lymphatic system every day, just like T Cells. But this is where the similarities between T and B Cells end.
 
 
+In the lymph nodes there are specific B Cell areas where they hang out for a bit and have a coffe, waiting a bit to see if they are needed. B Cells are very dangerous cells, so they need a strict two-factor authentication to be truly activated--one by Innate Immune System and another by Adaptive Immune System. Now, lets go through each step in detail
+
+ - **Step one: B Cell activation by the Innate Immune System:** 
+
+We did learn before what your body does with excess fluids in your tissue, it consistently washes them away, right into the Lymphatic System. The fluid and with it a lot of the battlefield detritus, with parts of dead bacteria and spent cytokines and other garbage, become part of your Lymph. This way the lymph flowing through you is a _liquid information carrier_. And this information is headed towards the next immune system base, the megacities and intelligence centers of the lymph nodes. Once it arrives here it is drained through the B Cell area where thousands of virgin B Cells hang out. The B Cells get right in the middle of the stream of fluid information and let the lymph flow around them and their B Cell receptors, which sift and explore all the antigens and detritus coming from the tissue.\
+The virgin B Cells look specifically for antigens they can connect to with their special and unique B Cell receptors. They are fishing for the one antigen then can connect to, so they know they can activate! \
+So far so good, but you may have noticed something: _There is no Dentritic Cell involved here_, so does this mean B cells dont need to go through this dance with another cell?? It all has to do with a huge difference between T Cell receptors and B Cell receptors.\
+Remember the MHC class II molecule? The hot dog bun that presented an antigen, the wiener, to the T Cell receptors, so it could activate? T Cell receptors are really picky eaters that eat only weiener and only if they come inside a bun. But this has major consequence for T Cells: The antigens that can activate T Cells have to be short because the MHC molecule can only carry short antigens. In contrast, the B Cell receptors are not as picky. \
+Both T and B Cell receptors are each made to recognize a specific antigens, but your B Cells are far less restricted. So T and B cells recognize very diffirent things/antigens in size and dimension. B Cells can pick antigens right from the fluids around them and activate. B Cells dont need and MHC molecule, they dont need to get a presentation from another cell like T cells do. 
 
 
+There is more: B Cells do have more direct help from Innate Immune System: B Cells can not just recognize the dead bacteria antigens, they also have special receptors that are able to recognize complement proteins.\
+We mentioned before that the Innate Immune System is responsible for activating and providing context to the Adaptive Immune System and here we are encountering this principle once more! By being attached to the pathogens, the complement system is officially confirming to the B Cells that there is a real danger. So complement proteins attached to an antigen makes it about 100 times easier to activate a B Cell than it would be to activate it without the complement. 
 
+
+OK, so what does this early activation look like? Well, first of all the activated B cell moves to another area in the lymph node and begins cloning itself. This cloning continues until there are around 20,000 identical clones, all with copies of the specific receptor that was able to connect to the original antigen, the first virgin B Cell picked up. These B Cell clones begin producing _Antibodies_ that use the blood as a lift to the site of infection and can flood the battlefield and help out. \
+Without second step, without activation number two, most of these B Cell clones will kill themselves within a day. Which makes sense actually, because if they dont get activated again, these B Cells have to assume the infection was pretty mild and they are not actually needed that badly, so not to waste any resources, they kill themselves.\
+To be truly awakend we need the second part of the two-factor authentication. And this one is provided to the B Cells by their collegues from the Adaptive Immune System, more precisely, by activate Helper T Cells.
+
+ - **Step two: B Cell Activation by the Adaptive Immune System:**
+
+
+ 
 
 
 
