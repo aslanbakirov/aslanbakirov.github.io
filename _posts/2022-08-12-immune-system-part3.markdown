@@ -45,7 +45,10 @@ An antigen-presenting cells have one more thing in common: A very special molecu
  ![Antigen Representation](/assets/MHC.jpeg)
  
 
+Helper T cells are able to recognize an antigen only if it is presented in an MHC class II molecule. This makes sure that Helper T Cells can not just get activated by accident because they pick up antigens that float around freely i the blood or lymph. They need to be presented with an antigen that sits in an MHC class II, from an antigen-presenting cell. 
 
+
+So back to the battlefield, where soldiers are engaged in an epoc battle, Dentritic Cells awallow a cross section of everything floating around, including enemies. If they grab a bacterium they rip it into small pieces, antigens (wieners), and put them into MHC class II molecules (hot dog buns) that cover its outsides. Then the Dentritic Cell makes its way through the lymphatic system to the closest lymph node to look for a Helper T Cell. When a Helper T Cell happens to have the right T cell receptor, with just the right shape that recognizes the antigen in the MHC class II molecule, it will connect to it. This is pretty exciting moment, the Dentritic Cell atcually has found the right Helper T Cell out of billions. But it still NOT enough to activate Helper T Cell, a second signal is necessary, communicated by another set of receptors on both cells.  
 
 
 
