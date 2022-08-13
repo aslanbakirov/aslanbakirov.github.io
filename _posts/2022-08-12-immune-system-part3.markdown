@@ -114,6 +114,18 @@ To be truly awakend we need the second part of the two-factor authentication. An
  - **Step two: B Cell Activation by the Adaptive Immune System:**
 
 
+As we learned in the last chapter, after a Helper T Cell has been activated and has made a lot of clones of itself, one group of the Helper T Cells moves to the battlefield while the other group goes off to activate B Cell for real.\
+In a nutshell, an activated T cell need to find an activate B Cell and **BOTH** cells need to be able to recognize the same antigen! Ok, wait a second, so are we seriously saying that two cells in your body mix gene fragments randomly, with hundreds of millions of possible outcomes? And then a pathogen shows up and coincidently both need to  be activated independently and then they need to meet each other? And only then, in this specific and seemingly impossibly unlikely case will your immune response fully be activated? Well, YES!\
+Basically, these are the steps happens:
+  1. A battle needs to occur and dead enemies, which are big chunks of antigens, need to float through the lymph node. Here, a B Cell, with a specific receptor needs connect to the antigen. If the dead enemy is covered in complement, activation will be much easier. This will activate the B cell, which makes a lot of copies of itself, and produces low-grade antibodies, but the B Cells will die after around a day if nothing more happens
+  2. In the meantime, a Dentritic Cell needs to pick up enemies at the battlefield and turn them into antigens which are put in the MHC class II molecules and travel to the T Cell dating area in the lymph node. Here it needs to find a Helper T Cell that is able to recognize the antigen with its unique T Cell receptors. If it happens the Helper T Cell is activated and makes a lot of copies of itself. 
+  3. The B Cell breaks the big chunk of antigen down into dozens or hundred of small antigens and begins presenting them in MHC class II molecules
+  4. An activated B Cell that is presenting hundred of diffirent antigens needs to meet a T Cell that can recognize one of these antigens with its specific T Cell receptor, which is the second signal for the B Cell. 
+
+
+Only if this exact sequence of events occurs does a B Cell get activated for real. THIS IS IMPRESSIVE! Once more: THIS IS MIND-BLOWING! 
+
+
  
 
 
