@@ -152,6 +152,9 @@ Antibodies are not just tiny crabs though. There are multiple classes that actua
 
 # Conclusion
 
+This is the end of my series of posts about immune system. First of all, thank you very much for reading my series of posts about Immune System. Much Appreciated! I tried to summarize what I learned from the book authored by Philipp Dettmer called "Immune". The book covers much more details with beautiful pictures. It is an amazing book, highly recommended. \
+Secondly, I learned a ton about human immune system, and this made me much more curious and interested in further details. Planning to write more about the related topics in the future. 
+
 
   
 
