@@ -11,15 +11,15 @@ In this post, we will talk about what is the tensor, how it is stored in memory,
 
 # ReShaping Operations on Tensors
 
-## ReShape
+### ReShape
 
-## View
+### View
 
-## Squeezing and Unsquezzing
+### Squeezing and Unsquezzing
 
-## Flatten
+### Flatten
 
-## Concatonate
+### Concatenate
 
 
 # Resources
