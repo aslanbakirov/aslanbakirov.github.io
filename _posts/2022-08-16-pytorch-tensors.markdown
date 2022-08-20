@@ -84,14 +84,9 @@ True
 
 If you call contiguous() on a non-contiguous tensor, a copy will be performed. Otherwise it will be a no-op.
 
-
-
-
-
-
-
-
 # ReShaping Operations on Tensors
+*Reshaping* operations are probably the most important type of tensor operations. Reshaping allows us to change the shape with the same data and number of elements as self but with the specified shape, which means it returns the same data as the specified array, but with different specified dimension sizes
+
 
 ### ReShape
 
