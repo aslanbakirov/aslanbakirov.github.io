@@ -87,10 +87,33 @@ If you call contiguous() on a non-contiguous tensor, a copy will be performed. O
 # ReShaping Operations on Tensors
 *Reshaping* operations are probably the most important type of tensor operations. Reshaping allows us to change the shape with the same data and number of elements as self but with the specified shape, which means it returns the same data as the specified array, but with different specified dimension sizes
 
-
 ### ReShape
+Reshape method of tensor returns a tensor with the same data and number of elements as self, but with the specified shape. When possible, the returned tensor will be a view of input. Otherwise, it will be a copy. Contiguous inputs and inputs with compatible strides can be reshaped without copying.
+```
+>>> t=torch.arange(12)
+>>> t
+tensor([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11])
+>>> a=t.reshape(2,6)
+>>> a
+tensor([[ 0,  1,  2,  3,  4,  5],
+        [ 6,  7,  8,  9, 10, 11]])
+>>> t
+tensor([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11])
+>>> a.storage().data_ptr()
+140697029066880
+>>> t.storage().data_ptr()
+140697029066880
+>>> torch.equal(a,t)
+False
+>>> a.reshape(-1)
+tensor([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11])
+>>> a
+tensor([[ 0,  1,  2,  3,  4,  5],
+        [ 6,  7,  8,  9, 10, 11]])
+```
 
 ### View
+
 
 ### Squeezing and Unsquezzing
 
