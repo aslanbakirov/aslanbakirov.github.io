@@ -10,7 +10,7 @@ The tensor is the central data structure in Pytorch. Tensor is an n-dimensional 
 
 # Tensor Stride/Storage
 We can imagine tensor as a combination of two parts: logical and physical. Logical part is how we represent it, physical part is how it is actually stored on our computersThe most common physical representation is to lay out each element of the tensor contigously in the memory. For example, in the example below, the tensor contains 32-bit integers,each integer lies int he physical address, each offset four bytes from each other.
-![Tensor Representation](/tensor.png).
+![Tensor Representation](/assets/tensor.png).
 
 
 ### Contigous() vs non-contigous()
