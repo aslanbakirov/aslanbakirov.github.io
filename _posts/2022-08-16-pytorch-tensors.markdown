@@ -35,6 +35,61 @@ In the example above, our first dimension is row, second dimension is column. So
 
 
 ### Contigous() vs non-contigous()
+A contiguous tensor is a tensor whose elements are stored in a contiguous order without leaving any empty space between them. A tensor created originally is always a contiguous tensor.Now, lets play with a contigous tensor, and make it non-contigous and see how stride is getting affected by this and why.
+```
+>>> # Create a tensor of shape [4, 3]
+>>> x = torch.arange(12).view(4, 3)
+>>> x
+tensor([[ 0,  1,  2],
+        [ 3,  4,  5],
+        [ 6,  7,  8],
+        [ 9, 10, 11]])
+>>> x.stride()
+(3, 1)
+>>> x.is_contiguous()
+True
+```
+
+If we look at the strides, we see, that we would have to skip 3 values to go to the new row, while only 1 to go to the next column. That makes sense so far. The values are stored sequentially in memory, i.e. the memory cells should hold the data as [0, 1, 2, 3, ..., 11].
+
+
+Now lets transpose the tensor, and have again a look at the strides:
+
+```
+>>> y = x.t()
+>>> y
+tensor([[ 0,  3,  6,  9],
+        [ 1,  4,  7, 10],
+        [ 2,  5,  8, 11]])
+>>> y.stride()
+(1, 3)
+>>> y.is_contiguous()
+False
+```
+
+First of all, getting transpose of contiguous tensor, makes it non-contiguous. However, the strides are now swapped. In order to go to the next row, we only have to skip 1 value, while 3 to move to the next column. This makes sense, if we recall the memory layout of the tensor:[0, 1, 2, 3, 4, ..., 11]
+In order to move to the next column (e.g. from 0 to 3, we would have to skip 3 values.
+The tensor is thus non-contiguous anymore!
+
+
+Now, lets make the tensor contigous, again.
+
+```
+>>> y = y.contiguous()
+>>> y.stride()
+(4, 1)
+>>> y.is_contiguous()
+True
+```
+
+If you call contiguous() on a non-contiguous tensor, a copy will be performed. Otherwise it will be a no-op.
+
+
+
+
+
+
+
 
 # ReShaping Operations on Tensors
 
@@ -53,3 +108,4 @@ In the example above, our first dimension is row, second dimension is column. So
  - http://blog.ezyang.com/2019/05/pytorch-internals/
  - https://pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html
  - https://deeplizard.com/learn/video/fCVuiW9AFzY
+ - https://discuss.pytorch.org/t/contigious-vs-non-contigious-tensor/30107/2
