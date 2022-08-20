@@ -6,9 +6,13 @@ date:   2022-08-16 08:34:43 +0000
 In this post, we will talk about what is the tensor, how it is stored in memory, and what reshaping operations we can apply on tensors. 
 
 # Tensors
+
+
 The tensor is the central data structure in Pytorch. Tensor is an n-dimensional data structure that contains some data in scalar type. Some of the types are boolean, integer and float. Imagine tensor as consisting of some data and some metadata describing its size/dimension, data type and where it is stored.
 
 # Tensor Stride/Storage
+
+
 We can imagine tensor as a combination of two parts: logical and physical. Logical part is how we represent it, physical part is how it is actually stored on our computersThe most common physical representation is to lay out each element of the tensor contigously in the memory. For example, in the example below, the tensor contains 32-bit integers,each integer lies int he physical address, each offset four bytes from each other.
 ![Tensor Representation](/assets/tensor.png).
 
@@ -35,6 +39,8 @@ In the example above, our first dimension is row, second dimension is column. So
 
 
 ### Contigous() vs non-contigous()
+
+
 A contiguous tensor is a tensor whose elements are stored in a contiguous order without leaving any empty space between them. A tensor created originally is always a contiguous tensor.Now, lets play with a contigous tensor, and make it non-contigous and see how stride is getting affected by this and why.
 ```
 >>> # Create a tensor of shape [4, 3]
@@ -85,9 +91,12 @@ True
 If you call contiguous() on a non-contiguous tensor, a copy will be performed. Otherwise it will be a no-op.
 
 # ReShaping Operations on Tensors
+
+
 *Reshaping* operations are probably the most important type of tensor operations. Reshaping allows us to change the shape with the same data and number of elements as self but with the specified shape, which means it returns the same data as the specified array, but with different specified dimension sizes
 
-## ReShape
+### ReShape
+
 Reshape method of tensor returns a tensor with the same data and number of elements as self, but with the specified shape. When possible, the returned tensor will be a view of input. Otherwise, it will be a copy. Contiguous inputs and inputs with compatible strides can be reshaped without copying.
 ```
 >>> t=torch.arange(12)
@@ -117,7 +126,11 @@ tensor([[ 0,  1,  2,  3,  4,  5],
 
 ### Squeezing and Unsquezzing
 
+
+
 ### Flatten
+
+
 
 ### Concatenate
 
