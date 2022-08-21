@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[WIP]Tensors and Reshaping operations in PyTorch"
+title:  "Tensors and Reshaping operations in PyTorch"
 date:   2022-08-16 08:34:43 +0000
 ---
 In this post, we will talk about what is the tensor, how it is stored in memory, and what reshaping operations we can apply on tensors. 
