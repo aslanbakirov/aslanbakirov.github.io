@@ -122,7 +122,92 @@ tensor([[ 0,  1,  2,  3,  4,  5],
 ```
 
 ### View
+A view of a tensor returns a new tensor with the same data as the self tensor but of a different shape.
+The returned tensor shares the same data and must have the same number of elements, but may have a different size. For a tensor to be viewed, the new view size must be compatible with its original size and stride
 
+```
+>>> x=torch.rand(4,4)
+>>> x
+tensor([[0.3314, 0.9901, 0.5824, 0.3573],
+        [0.2186, 0.5349, 0.4808, 0.6877],
+        [0.3436, 0.0815, 0.0949, 0.0022],
+        [0.3279, 0.2055, 0.6683, 0.1962]])
+>>>
+>>> y=x.view(16)
+>>> y
+tensor([0.3314, 0.9901, 0.5824, 0.3573, 0.2186, 0.5349, 0.4808, 0.6877, 0.3436,
+        0.0815, 0.0949, 0.0022, 0.3279, 0.2055, 0.6683, 0.1962])
+>>> z = x.view(-1, 8)
+>>> z
+tensor([[0.3314, 0.9901, 0.5824, 0.3573, 0.2186, 0.5349, 0.4808, 0.6877],
+        [0.3436, 0.0815, 0.0949, 0.0022, 0.3279, 0.2055, 0.6683, 0.1962]])
+```
+
+One of the interesting feature of *view*, is ability to convert between *dtype*s\
+**view(dtype) → Tensor**\
+
+Returns a new tensor with the same data as the self tensor but of a different dtype.
+
+If the element size of dtype is different than that of self.dtype, then the size of the last dimension of the output will be scaled proportionally. For instance, if dtype element size is twice that of self.dtype, then each pair of elements in the last dimension of self will be combined, and the size of the last dimension of the output will be half that of self. If dtype element size is half that of self.dtype, then each element in the last dimension of self will be split in two, and the size of the last dimension of the output will be double that of self
+
+```
+>>> a=torch.rand(2,2)
+>>> a
+tensor([[0.9259, 0.7836],
+        [0.1964, 0.1979]])
+>>> a.dtype
+torch.float32
+>>> a.view(torch.int32)
+tensor([[1064110094, 1061722456],
+        [1044976504, 1045081164]], dtype=torch.int32)
+>>> a.view(torch.int16)
+tensor([[  2062,  16237, -26280,  16200],
+        [  4984,  15945, -21428,  15946]], dtype=torch.int16)
+```
+
+**The Difference Between Tensor.view() and torch.reshape()**
+Both of pytorch tensor.view() and torch.reshape() can change the size of a tensor. What’s the difference between them?\
+tensor.view() must be used in a contiguous tensor, however, torch.reshape() can be used on any kinds of tensor
+
+Ex: View can not run on non-contiguous tensor
+```
+>>> x = torch.tensor([[1, 2, 2],[2, 1, 3]])
+>>> x = x.transpose(0, 1)
+>>> x
+tensor([[1, 2],
+        [2, 1],
+        [2, 3]])
+>>> x.is_contiguous()
+False
+>>> y = x.view(3,2)
+>>> y
+tensor([[1, 2],
+        [2, 1],
+        [2, 3]])
+>>> x.is_contiguous()
+False
+>>> y = x.view(2,3)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+RuntimeError: view size is not compatible with input tensor's size and stride (at least one dimension spans across two contiguous subspaces). Use .reshape(...) instead.
+```
+
+However, reshape can run on non-contiguous tensor
+
+```
+>>> x = torch.tensor([[1, 2, 2],[2, 1, 3]])
+>>> x = x.transpose(0, 1)
+>>> x
+tensor([[1, 2],
+        [2, 1],
+        [2, 3]])
+>>> x.is_contiguous()
+False
+>>> y=x.reshape(2,3)
+>>> y
+tensor([[1, 2, 2],
+        [1, 2, 3]])
+```
 
 ### Squeezing and Unsquezzing
 
