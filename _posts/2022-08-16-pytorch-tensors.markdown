@@ -144,7 +144,7 @@ tensor([[0.3314, 0.9901, 0.5824, 0.3573, 0.2186, 0.5349, 0.4808, 0.6877],
 ```
 
 One of the interesting feature of *view*, is ability to convert between *dtype*s\
-**view(dtype) → Tensor**\
+**view(dtype) → Tensor**
 
 Returns a new tensor with the same data as the self tensor but of a different dtype.
 
@@ -166,6 +166,8 @@ tensor([[  2062,  16237, -26280,  16200],
 ```
 
 **The Difference Between Tensor.view() and torch.reshape()**
+
+
 Both of pytorch tensor.view() and torch.reshape() can change the size of a tensor. What’s the difference between them?\
 tensor.view() must be used in a contiguous tensor, however, torch.reshape() can be used on any kinds of tensor
 
@@ -212,13 +214,67 @@ tensor([[1, 2, 2],
 ### Squeezing and Unsquezzing
 
 
+The next way we can change the shape of our tensors is by squeezing and unsqueezing them.
+
+ - *Squeezing* a tensor removes the dimensions or axes that have a length of one.
+ - *Unsqueezing* a tensor adds a dimension with a length of one.
+
+These functions allow us to expand or shrink the rank (number of dimensions) of our tensor.
+```
+>>> x=torch.arange(6)
+>>> x
+tensor([0, 1, 2, 3, 4, 5])
+>>> x.unsqueeze(0)
+tensor([[0, 1, 2, 3, 4, 5]])
+>>> x.unsqueeze(1)
+tensor([[0],
+        [1],
+        [2],
+        [3],
+        [4],
+        [5]])
+
+
+>>> x=torch.arange(6)
+>>> x.reshape(2,3)
+tensor([[0, 1, 2],
+        [3, 4, 5]])
+>>> x.squeeze()
+tensor([0, 1, 2, 3, 4, 5])
+>>> x.reshape(2,3)
+tensor([[0, 1, 2],
+        [3, 4, 5]])
+>>> x.unsqueeze()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsqueeze() missing 1 required positional arguments: "dim"
+```
 
 ### Flatten
 
+A flatten operation on a tensor reshapes the tensor to have a shape that is equal to the number of elements contained in the tensor. This is the same thing as a 1d-array of elements.
 
+Flattening a tensor means to remove all of the dimensions except for one. The following is the representation of flatten method using methods mentioned above
+```
+def flatten(t):
+    t = t.reshape(1, -1)
+    t = t.squeeze()
+    return t
+```
 
-### Concatenate
-
+Lets see in action:
+```
+>>> x=torch.zeros(2,2)
+>>> x
+tensor([[0., 0.],
+        [0., 0.]])
+>>> x=x.reshape(1,-1)
+>>> x
+tensor([[0., 0., 0., 0.]])
+>>> x=x.squeeze()
+>>> x
+tensor([0., 0., 0., 0.])
+```
 
 # Resources
  - http://blog.ezyang.com/2019/05/pytorch-internals/
