@@ -10,6 +10,7 @@ In this post, we will talk about what is the tensor, how it is stored in memory,
 
 The tensor is the central data structure in Pytorch. Tensor is an n-dimensional data structure that contains some data in scalar type. Some of the types are boolean, integer and float. Imagine tensor as consisting of some data and some metadata describing its size/dimension, data type and where it is stored.
 
+
 # Tensor Stride/Storage
 
 
@@ -122,6 +123,8 @@ tensor([[ 0,  1,  2,  3,  4,  5],
 ```
 
 ### View
+
+
 A view of a tensor returns a new tensor with the same data as the self tensor but of a different shape.
 The returned tensor shares the same data and must have the same number of elements, but may have a different size. For a tensor to be viewed, the new view size must be compatible with its original size and stride
 
@@ -211,6 +214,7 @@ tensor([[1, 2, 2],
         [1, 2, 3]])
 ```
 
+
 ### Squeezing and Unsquezzing
 
 
@@ -250,7 +254,9 @@ Traceback (most recent call last):
 TypeError: unsqueeze() missing 1 required positional arguments: "dim"
 ```
 
+
 ### Flatten
+
 
 A flatten operation on a tensor reshapes the tensor to have a shape that is equal to the number of elements contained in the tensor. This is the same thing as a 1d-array of elements.
 
@@ -277,6 +283,7 @@ tensor([0., 0., 0., 0.])
 ```
 
 # Resources
+
  - http://blog.ezyang.com/2019/05/pytorch-internals/
  - https://pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html
  - https://deeplizard.com/learn/video/fCVuiW9AFzY
