@@ -29,6 +29,20 @@ Now, lets describe the picture mention above more in detail. You have billions o
 
 
 Neurotransmitters are located in axon terminal, and are stored within thin-walled sacs called **synaptic vesicles.** Each vesicle can contain thousands of neurotransmitters.
+As the signal travels along a nerve cell, the electrical charge of the signal causes the vesicles to fuse with the nerve cell membrane at the very edge of the cell. The neurotransmitters are then released from the axon terminal into a fluid-filled space that's between one nerve cell and the next target cell. In this space, which is called synaptic junction, each type of neurotransmitter lands on and binds to a specific receptor on the target cell. After they bind, in other words, deliver their message, the molecules must be cleared from the synaptic cleft/junction. They do this in one of the three ways.
+
+ - Fade away, called as diffusion (b in the first picture)
+ - Are reabsorbed and reused by the nerve cell that released it. This is called a **reuptake process** (a in the first picture)
+ - Are broken down by enzymes wihtin the synapse so it can not be recognized or bind to receptor cell again. This process is called **degradation** (c in the first picture)
+
+Even though the first pictures gives a lot of details, please check out the picture below which gives another perspective, as well.
+![neurotransmitters](/assets/neurotransmitters2.png)
+
+
+
+
+
+ 
 
 
 # Resources
