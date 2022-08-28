@@ -5,9 +5,31 @@ date:   2022-08-27 08:34:43 +0000
 ---
 
 Neurotransmitters are chemical messengers in the body. They transmit signals from nerve cells to target cells. These target cells may be in muscles, glands or other nerves. These messages help you move your limbs, feel sensations, keep your heart beating and respond to all information your body receives from other internal parts of your body and your environment. 
+Here are the short list of functions that your nervous system controls using neurotransmitters
+ - Heartbeat and blood pressure
+ - Breathing
+ - Muscle movement
+ - Memory, learning and feeling
+ - Sleep, healing and aging
+ - Stress management
+ - Digestion and sense of hunger and thirst
+
+  
 Before we go into details, please check out this fascinating picture below, we will explore each part further in the next sections.
 ![neurotransmitters](/assets/neurotransmitters.png)
  
+
+# How do neurotransmitters work?
+
+Now, lets describe the picture mention above more in detail. You have billions of nerve cells in your body. Nerve cells are generally made up of three parts:
+
+ - **A Cell Body:** The cell body is vital to producing neurotransmitters and maintaining the function of nerve cell.
+ - **An Axon:** The axon carries the electrical signals along the nerve cell to the axon terminal. 
+ - **An Axon Terminal:** This is where the electrical message is changed to a chemical signal (Really wonder how??) using neurotransmetters to communicate with the next group of nerve cells, muscle cells or organs.
+
+
+Neurotransmitters are located in axon terminal, and are stored within thin-walled sacs called **synaptic vesicles.** Each vesicle can contain thousands of neurotransmitters.
+
 
 # Resources
  - https://www.medicalnewstoday.com/articles/326649#endorphins
