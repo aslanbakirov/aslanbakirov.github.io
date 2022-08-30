@@ -44,8 +44,11 @@ Even though the first pictures gives a lot of details, please check out the pict
 Neurotransmitters can be classified under three categories based on the actions in their messages. 
 
  - **Excitatory:** These neurotransmitters "excite" the neuron and cause it to "fire off the message", meaning, message continues to passed along to the next cell. In addition, excitatory neurotransmitters encourage a target cell to take an action. Examples of these neurotransmitters are glutamate, epinephrine (a.k.a adrenaline), norepinephrine.
- - **Inhibitory:** 
- - **Modulatory:**
+ - **Inhibitory:** Inhibitory neurotransmitters block or prevent the chemical message from being bassed along any farther. They decrease the likelihood that the neuron will fire and action potential. Some of the inhibitory transmitters are gamma-aminobutyric acid (GABA), seretonin and glycine.
+ - **Modulatory:** Modulatory neurotransmitters, also referred as neuromodulators, influence the effects of other chemical messengers. Neuromodulators are capable of affecting a large number of neurons at the same time.They "tweak" or adjust how cells communicate at the synapse.
+
+
+**_NOTE:_** Some neurotransmitters, such as acetylcholine and dopamine, can create both excitatory and inhibitory effects depending upon the type of receptors that are present. 
 
 
 
