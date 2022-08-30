@@ -51,7 +51,18 @@ Neurotransmitters can be classified under three categories based on the actions 
 **_NOTE:_** Some neurotransmitters, such as acetylcholine and dopamine, can create both excitatory and inhibitory effects depending upon the type of receptors that are present. 
 
 
+# Types of Neurotransmitters
 
+
+It is know that, there are at least 100 neurotransmitters and maybe more than that waiting to be discovered. They can be grouped into types based on their chemical nature. Some of the best known categories and neurotransmitter examples and their functions include the following:
+
+## Amino acids neurotransmitters
+
+These neurotransmitters are involved in most functions of your nervous system. 
+ 
+ - **Glutamate:** This is most common excitatory neurotransmitter. It is most generous neurotransmitter in your brain. It plays a key role in congitive functions like *thinking, learning and memory*. Imbalances in glutamate levels associated with Alzheimer's disease, dementia, Parkinson's disease.
+
+ - **Gamma-aminobutryic acid (GABA):** GABA is the most common inhibitory transmitter. It regulates brain activity to prevent problems in the areas of anxiety, concentration, sleep, seizures and depression. 
 
  
 
