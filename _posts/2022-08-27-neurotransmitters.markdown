@@ -56,7 +56,8 @@ Neurotransmitters can be classified under three categories based on the actions 
 
 It is know that, there are at least 100 neurotransmitters and maybe more than that waiting to be discovered. They can be grouped into types based on their chemical nature. Some of the best known categories and neurotransmitter examples and their functions include the following:
 
-## Amino acids neurotransmitters
+### Amino acids neurotransmitters
+
 
 These neurotransmitters are involved in most functions of your nervous system. 
  
@@ -64,6 +65,21 @@ These neurotransmitters are involved in most functions of your nervous system.
 
  - **Gamma-aminobutryic acid (GABA):** GABA is the most common inhibitory transmitter. It regulates brain activity to prevent problems in the areas of anxiety, concentration, sleep, seizures and depression. 
 
+ - **Glycine:** Glycine is most common inhibitory neurotransmitter in your spinal cord. It is mainly involved in controlling hearing processing and pain transmission. 
+
+### Monoamines neurotransmitters
+
+
+Monoamines regulates consciousness, cognition, attention, and emotion. Many disorders of your nervous system involve abnormalities of monomine neurotransmitters, and many drugs that people commonly take affect these neurotransmitters. 
+
+ - **Serotonin:** Serotonin is an inhibitory neurotransmitter. Serotonin plays an important role in regulating and modulating mood, sleep, anxiety, sexuality and appetite. Selective serotonin reuptake inhibitors (SSRIs) are a type of antidepressant medication commonly used to help depression, anxiety, panic disorder. SSRIs work to balance serotonin levels by blocking the reuptae of serotonin in the brain, which can help improve mood and reduce anxiety. 
+
+ - **Histamine:** Histamine regulates body functions including wakefulness, feeding behaviour, and plays a key role in asthma, bronchospasm. It also plays a role in allergic rections and is produced as part of the immune system's response to pathogens. 
+
+ - **Dopamine:** Commonly known as the feel-good neurotransmitter. Dopamine is involved in reward, motivation, and addictions. Several highly addictive drugs act directly on the dopamine system. In other words, they increase dopamine levels in the brain. This chemical messenger also plays an important role in the coordination of body movements. Parkinson's disease which is a degenerative disease that results in motor movement impairments, is caused by the loss of dopamine-generating neurons in the brain. 
+ 
+ 
+ 
  
 
 
