@@ -78,8 +78,32 @@ Monoamines regulates consciousness, cognition, attention, and emotion. Many diso
 
  - **Dopamine:** Commonly known as the feel-good neurotransmitter. Dopamine is involved in reward, motivation, and addictions. Several highly addictive drugs act directly on the dopamine system. In other words, they increase dopamine levels in the brain. This chemical messenger also plays an important role in the coordination of body movements. Parkinson's disease which is a degenerative disease that results in motor movement impairments, is caused by the loss of dopamine-generating neurons in the brain. 
  
+ - **Epinephrine:** Epinephrine (also called adrenaline) and norepinephrine are responsible for your body's so-called "fight-or-flight response" to fear and stress. Epinehprine is considered both a hormone and a neurotransmitter. It stimulate your body's response by increasing your heart rate, breathing, blood pressure.
  
+ - **Norepinephrine:** Also called noradrenaline, increases blood pressure and heart rate. Its role is to help mobilize the body and brain to take action in times of danger and stress. Typically, its level is lowest during sleep and highest during stress.
+
+### Peptide neurotransmitters
+
+Peptides are polymers or chains of amino acids.
+
+ - **Oxytocin:** This powerful hormone acts as a neurotransmitter in the brain. It is produced by the hypothalamus and plays a role in social recognition, bonding and sexual reproduction. Synthetic oxytocin such as Pitocin is often used as an aid in labor and delivery. Both oxytocin and Pitocin cause the uterus to contract during labor. 
+
+ - **Endorphins:** Endorphins are your body's natural pain reliever.  They play a role in our perception of pain. Release of endorphins reduces pain. Endorphins can also be triggered by other activities such as aerobic exercise.
+
  
+# Why would a neurotransmitter not work as it should?
+
+Several things can go wrong and affect the regular work of neurotransmitter. Here are some of these problems:
+
+ - Too much or not enough of one or more neurotransmitter are produced.
+ - The receptor on the receiver cell is not working properly
+ - The cell receptors are not taking up enough neurotransmitters due to inflammation and damage of the synaptic cleft. 
+ - Neurotransmitters are reabsorbed too quickly.
+
+
+# Conclusion
+
+Neurotransmitters are super important since they manage almost all of our mood during our life. Knowing their properties and details would make us more aware of our lives and feelings. There are  a lot of prescribed medicine to solve the problems caused by neurotransmitters, and understanding their affect would make us be more responsible taking them. 
  
 
 
