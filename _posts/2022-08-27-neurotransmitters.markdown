@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[WIP]Neurotransmitters"
+title:  "Neurotransmitters"
 date:   2022-08-27 08:34:43 +0000
 ---
 
