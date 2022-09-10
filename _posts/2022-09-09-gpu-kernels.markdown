@@ -23,12 +23,19 @@ Even though the picture above shows 4 CPU cores in the host part, in general, th
 In addition, these devices has mesh connection between them. That means, all the devices has a direct access to all other devices (via NVLink). This architecture is super efficient in most use cases, such as gradient syncronizing/sharing in deep learing training process. This mesh connections avoid devices to send/receive messages via PCIe bus through host memory (which adds latency and power usage), they just directly talk to each other.
 ![mesh-connection](/assets/mesh.png) 
 
+# How GPU architecture looks like?
+
+In this part, I will go through how the inside of GPU device/card looks like. Even though, the newer generations/versions( ex: H100) have much more advanced cores (Tensor Cores, etc), the main principle should be helpful to understand how the cores are structured. 
+![grid](/assets/grid.png)
 
 
- 
 
+# How to utilise immense parallelism?
 
+As we mentioned before, 
 
 
 # Resources:
  - Correction: A Hybrid CPU-GPU Accelerated Framework for Fast Mapping of High-Resolution Human Brain Connectome by Y. Wang et al. 
+ - https://developer.nvidia.com/blog/inside-pascal/
+ - https://docs.nvidia.com/cuda/cuda-c-programming-guide/
