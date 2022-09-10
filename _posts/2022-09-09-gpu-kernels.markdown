@@ -32,7 +32,7 @@ In this part, I will go through how the inside of GPU device/card looks like. Ev
  - **Blocks:** Threads are grouped into blocks, a programming abstraction. Currently a thread block can contain up to 1024 threads.
  - **Grid:** Contains thread blocks.
 
-__We mentioned CUDA here, which we will explain in detail later in this post, in short, it is a programming platform to run programs on GPUs.__
+_We mentioned CUDA here, which we will explain in detail later in this post, in short, it is a programming platform to run programs on GPUs._
 
 
 ![grid](/assets/grid.png)
