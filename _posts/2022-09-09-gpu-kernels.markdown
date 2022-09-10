@@ -25,14 +25,22 @@ In addition, these devices has mesh connection between them. That means, all the
 
 # How GPU architecture looks like?
 
-In this part, I will go through how the inside of GPU device/card looks like. Even though, the newer generations/versions( ex: H100) have much more advanced cores (Tensor Cores, etc), the main principle should be helpful to understand how the cores are structured. 
-![grid](/assets/grid.png)
+In this part, I will go through how the inside of GPU device/card looks like. Even though, the newer generations/versions( ex: H100) have much more advanced cores (Tensor Cores, etc), the main principle should be helpful to understand how the cores are structured. Basically, there are __grids__ which contain multiple __blocks__ and blocks contain __threads__. Each of these threads execute functions. These are jsut programming abstractions in order to manage parallel execution of threads/fucntions. Here are more formal definitions, and picture explains them::
 
+ - **Kernel:** name of a function run by CUDA on the GPU.
+ - **Thread:** CUDA will run many threads in parallel on the GPU. Each thread executes the kernel.
+ - **Blocks:** Threads are grouped into blocks, a programming abstraction. Currently a thread block can contain up to 1024 threads.
+ - **Grid:** Contains thread blocks.
+
+__We mentioned CUDA here, which we will explain in detail later in this post, in short, it is a programming platform to run programs on GPUs.__
+
+
+![grid](/assets/grid.png)
 
 
 # How to utilise immense parallelism?
 
-As we mentioned before, 
+So GPU device/card contains thousands of threads, however, we should learn how we utilise them. 
 
 
 # Resources:
