@@ -40,7 +40,14 @@ _We mentioned CUDA here, which we will explain in detail later in this post, in 
 
 # How to utilise immense parallelism?
 
-So GPU device/card contains thousands of threads, however, we should learn how we utilise them. 
+So, GPU device/card contains thousands of threads, however, we should learn how we utilise them. Nvidia provides a programming platform called CUDA which is used to interact with GPUs. It provides very useful built-in libraries/function that helps developers to focus on their logic and algorithm instead of how to schedule and manage threads. Here are some of them:
+
+ - cudaMalloc: Allocate memory on device memory
+ - cudaMemcpy: Copy vectors from host memory to device memory or vice versa
+ - cudaDeviceSynchronize: Wait for GPU to finish before accessing on host	 
+ - cudaFree: Free memory
+
+# How to write a CUDA Kernel?
 
 
 # Resources:
