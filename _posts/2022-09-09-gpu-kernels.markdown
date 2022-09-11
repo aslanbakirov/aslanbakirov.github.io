@@ -74,10 +74,8 @@ Now, since we got familiar with the syntax, lets write a bit complicated,(still 
 #include <math.h>
 #include <stdio.h>
 #include <iostream>
-// Kernel function to add the elements of two arrays
-// threadIdx.x contains the index of the current thread within its block,
-// and blockDim.x contains the number of threads in the block.
 
+// Kernel function to add the elements of two arrays
 __global__ void add(int n, float* x, float* y) {
 
   int index = blockIdx.x * blockDim.x + threadIdx.x;
@@ -88,9 +86,70 @@ __global__ void add(int n, float* x, float* y) {
 }
 ``` 
 
-  
- 
+You should have noticed some built-in variables _threadIdx.x, blockIdx.x, blockDim.x, gridDim.x_. Basically, these variables are provided by CUDA, and their definitions are:
 
+  **threadIdx.x:** contains the index of the current thread within its block,
+  **blockIdx.x:** contains the index of the current block within its grid
+  **blockDim.x:** contains the number of threads in the block.
+  **gridDim.x:** contains the number of blocks in the grid
+
+Basically, what we are trying to achieve here is, which thread is going to compute addition of which index in the arrays. Even though, it seems like every kernel will add all the elements in the array (because of for loop causing confusion), it is NOT the case. 
+ 
+Now, lets trigger these kernels to run in parallel. Here is the code snippet for that:
+
+```
+int main(void) {
+  int N = 1 << 10; //2 to the power of 10, which is 1024
+  std::cout << "N is: " << N << std::endl;
+  float *x, *y;
+
+  // Allocate Unified Memory – accessible from CPU or GPU
+  cudaMallocManaged(&x, N * sizeof(float));
+  cudaMallocManaged(&y, N * sizeof(float));
+
+  // initialize x and y arrays on the host
+  for (int i = 0; i < N; i++) {
+    x[i] = 1.0f;
+    y[i] = 2.0f;
+  }
+
+  // Run kernel on 1000 elements on the GPU
+  int blockSize = 1024;
+  int numBlocks = (N + blockSize - 1) / blockSize;
+  std::cout << "numBlocks is: " << numBlocks << std::endl;
+  add<<<numBlocks, blockSize>>>(N, x, y);
+
+  // Wait for GPU to finish before accessing on host
+  cudaDeviceSynchronize();
+  std::cout << "values: " << y[0] << std::endl;
+
+  // Check for errors (all values should be 3.0f)
+  float maxError = 0.0f;
+  for (int i = 0; i < N; i++)
+    maxError = fmax(maxError, fabs(y[i] - 3.0f));
+  std::cout << "Max error: " << maxError << std::endl;
+
+  // Free memory
+  cudaFree(x);
+  cudaFree(y);
+
+  return 0;
+}
+```
+
+(Again, this is super simple example, the goal is just to show the syntax and structure of the CUDA program)
+
+As you noticed, we are using some built-in CUDA functions, which makes our job much easier. Lets do quick walkthrough the codebase:
+  
+ 1. We allocated memories for storing elements via _cudaMallocManaged
+ 2. We triggered the execution via  _add<<<numBlocks, blockSize>>>(N, x, y);_ 
+ 3. We waited for all executions to finish via _cudaDeviceSynchronize();_ 
+ 4. We freed the memories after execution
+
+# Conclusion
+
+In this post, I tried to give brief introduction to GPU architecture and how to write a simple GPU kernel. The idea was to get the reader familiar with the concepts. As I mentioned before, this technologies are moving fast, the architectures I showed here might be outdated soon, and also, there might be some new advanced CUDA APIs or CUDA kernels to process data much for efficiently. Please refer to whitepaper of GPU versions/generations for more details.\
+Thanks for reading.
 
 
 # Resources:
