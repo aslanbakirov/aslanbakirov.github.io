@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[WIP]GPU Architecture and GPU Kernels"
+title:  "GPU Architecture and GPU Kernels"
 date:   2022-09-09 08:34:43 +0000
 ---
 In this post, we will discuss how GPU architecture and GPU kernels look like. First, we will introduce GPU structure, secondly, we will develope a simple GPU kernel and discuss different scenarios. This is an introductory level post, the idea is to get the reader familiar with the architecture and implementation. Also, quick note to mention, I am aware that these technologies are getting improved and changed very frequently, however, I believe, grasping the main logic behind them will be helpful to adapt new versions and developments.  
@@ -88,10 +88,10 @@ __global__ void add(int n, float* x, float* y) {
 
 You should have noticed some built-in variables _threadIdx.x, blockIdx.x, blockDim.x, gridDim.x_. Basically, these variables are provided by CUDA, and their definitions are:
 
-  **threadIdx.x:** contains the index of the current thread within its block,
-  **blockIdx.x:** contains the index of the current block within its grid
-  **blockDim.x:** contains the number of threads in the block.
-  **gridDim.x:** contains the number of blocks in the grid
+ - **threadIdx.x:** contains the index of the current thread within its block,
+ - **blockIdx.x:** contains the index of the current block within its grid
+ - **blockDim.x:** contains the number of threads in the block.
+ - **gridDim.x:** contains the number of blocks in the grid
 
 Basically, what we are trying to achieve here is, which thread is going to compute addition of which index in the arrays. Even though, it seems like every kernel will add all the elements in the array (because of for loop causing confusion), it is NOT the case. 
  
@@ -141,7 +141,7 @@ int main(void) {
 
 As you noticed, we are using some built-in CUDA functions, which makes our job much easier. Lets do quick walkthrough the codebase:
   
- 1. We allocated memories for storing elements via _cudaMallocManaged
+ 1. We allocated memories for storing elements via _cudaMallocManaged_
  2. We triggered the execution via  _add<<<numBlocks, blockSize>>>(N, x, y);_ 
  3. We waited for all executions to finish via _cudaDeviceSynchronize();_ 
  4. We freed the memories after execution
@@ -149,7 +149,7 @@ As you noticed, we are using some built-in CUDA functions, which makes our job m
 # Conclusion
 
 In this post, I tried to give brief introduction to GPU architecture and how to write a simple GPU kernel. The idea was to get the reader familiar with the concepts. As I mentioned before, this technologies are moving fast, the architectures I showed here might be outdated soon, and also, there might be some new advanced CUDA APIs or CUDA kernels to process data much for efficiently. Please refer to whitepaper of GPU versions/generations for more details.\
-Thanks for reading.
+Thanks for reading!
 
 
 # Resources:
