@@ -50,6 +50,15 @@ So, GPU device/card contains thousands of threads, however, we should learn how 
 # How to write a CUDA Kernel?
 
 
+Just to reiterate the definition, kernel is a function that CUDA runs on GPU threads. Namely, CUDA is a platform and programming model for CUDA-enabled GPUs. The platform exposes GPUs for general purpose computing. CUDA provides C/C++ language extension and APIs for programming and managing GPUs. We will use CUDA C++ for our example, however, there are also other interfaces implemented in different programming language, such as Python. (cuPY is the library for Python). 
+We will first go through a very basic CUDA example, in order to understand its syntax and architecture, then we will write our own CUDA kernel.
+
+
+!(CUDA)[/assets/cuda_c.png]
+   
+
+In the figure above, you see a program that is written in C versus CUDA.
+
 # Resources:
  - Correction: A Hybrid CPU-GPU Accelerated Framework for Fast Mapping of High-Resolution Human Brain Connectome by Y. Wang et al. 
  - https://developer.nvidia.com/blog/inside-pascal/
