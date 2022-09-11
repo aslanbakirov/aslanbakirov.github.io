@@ -32,6 +32,7 @@ In this part, I will go through how the inside of GPU device/card looks like. Ev
  - **Blocks:** Threads are grouped into blocks, a programming abstraction. Currently a thread block can contain up to 1024 threads.
  - **Grid:** Contains thread blocks.
 
+
 _We mentioned CUDA here, which we will explain in detail later in this post, in short, it is a programming platform to run programs on GPUs._
 
 
@@ -54,14 +55,42 @@ Just to reiterate the definition, kernel is a function that CUDA runs on GPU thr
 We will first go through a very basic CUDA example, in order to understand its syntax and architecture, then we will write our own CUDA kernel.
 
 
-!(CUDA)[/assets/cuda_c.png]
+![CUDA](/assets/cuda_c.png)
    
 
-In the figure above, you see a program that is written in C versus CUDA. As you can see, we have a keyword *__global__* in the method definition. Here are its definition and other options:
+In the figure above, you see a program that is written in C versus CUDA. As you can see, we have a keyword *__global__* in the method definition. Here is its definition and other options:
 
  - **__global__**   the function is visible to the host and the GPU, and runs on the GPU
  - **__host__**   the function is visible only to the host, and runs on the host
  - **__device__**   the function is visible only to the GPU, and runs on the GPU
+
+
+In addition, as it can be seen, we call kernel with the configuration parameters enclosed in triple chevrons (_<<< ... >>>_). The information between the triple chevrons is the execution configuration, which dictates how many device threads execute the kernel in parallel. The first argument in the execution configuration specifies the number of thread blocks in the grid, and the second specifies the number of threads in a thread block. In our example, the configuration indicates to run _cuda_hello()_ function/kernel in one thread in one block. 
+
+
+Now, since we got familiar with the syntax, lets write a bit complicated,(still super simple) application. Our example, is for adding up two vectors. We are aiming to add each element of the vector in separate thread. For instace, lets say we want to add two arrays with size of 500, we want 500 threads run in parallel to sum elements in each index of the array. This is how our kernel will look like:
+
+```
+#include <math.h>
+#include <stdio.h>
+#include <iostream>
+// Kernel function to add the elements of two arrays
+// threadIdx.x contains the index of the current thread within its block,
+// and blockDim.x contains the number of threads in the block.
+
+__global__ void add(int n, float* x, float* y) {
+
+  int index = blockIdx.x * blockDim.x + threadIdx.x;
+  int stride = blockDim.x * gridDim.x;
+  
+  for (int i = index; i < n; i += stride)
+    y[i] = x[i] + y[i];
+}
+``` 
+
+  
+ 
+
 
 
 # Resources:
