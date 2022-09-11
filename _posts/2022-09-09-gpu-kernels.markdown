@@ -57,7 +57,12 @@ We will first go through a very basic CUDA example, in order to understand its s
 !(CUDA)[/assets/cuda_c.png]
    
 
-In the figure above, you see a program that is written in C versus CUDA.
+In the figure above, you see a program that is written in C versus CUDA. As you can see, we have a keyword *__global__* in the method definition. Here are its definition and other options:
+
+ - **__global__**   the function is visible to the host and the GPU, and runs on the GPU
+ - **__host__**   the function is visible only to the host, and runs on the host
+ - **__device__**   the function is visible only to the GPU, and runs on the GPU
+
 
 # Resources:
  - Correction: A Hybrid CPU-GPU Accelerated Framework for Fast Mapping of High-Resolution Human Brain Connectome by Y. Wang et al. 
