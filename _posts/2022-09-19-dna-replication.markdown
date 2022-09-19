@@ -6,8 +6,10 @@ date:   2022-09-19 08:34:43 +0000
 Today, I would like to talk about DNA replication in thousand meters bird's eye view. There are a lot of invaluable resources regarding this topic. I just want to summarise the steps and main terminologies, as if taking some notes in order to refer later.
 Here are the steps for DNA-replication:
 
- 1. **Replication Fork Formation (a.k.a Initiation)**
- We form fork here
+ **1. Replication Fork Formation (a.k.a Initiation)**
+ 
+
+We form fork here
  2. **Primer Binding**
  bindig
  3. **Elongation**
