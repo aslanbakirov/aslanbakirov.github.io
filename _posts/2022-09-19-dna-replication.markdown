@@ -19,13 +19,24 @@ Here are the steps for DNA-replication:
   
    Enzymes known as _DNA polymerases_ are responsible creating new strand by a process called elongation. DNA polymerase adds pieces of DNA called _Okazaki fragments_ to the strand between primers.   
 
- 4. Termination
+ **4. Termination**
+ 
+  Once both new strands are formed, an enzyme called _exonuclease_ removes all RNA primers from the original strands. These primers are then replaced with proper bases. Another enzyme called _DNA ligase_ joins Okazaki fragments together forming a single unified strand.  The ends of parent strands consists of repeated DNA sequences called _telomeres_. Telomeres act as protective caps. Another enzyme called _telomerase_ catalyzes the synthesis of telomere sequences at the ends of the DNA.
 
-    
+ 
+As it can be seen, enzymes play a crucial role in DNA replication, lets summarise again their names and functionalities:
+
+ - **DNA helicase:** unwinds and separates double stranded DNA as it moves along the DNA. It forms the replication fork by breaking hydrogen bonds between nucleotide pairs in DNA.
+ - **DNA primase:** A type of RNA polymerase that generates RNA primers. Primers are short RNA molecules that act as templates for the starting point of DNA replication.
+ - **DNA polymerases:** Synthesize new DNA molecules by adding nucleotides to leading and lagging DNA strands.
+ - **Topoisomerase or DNA Gyrase:** Unwinds and rewinds DNA strands to prevent the DNA from becoming tangled or supercoiled.
+ - **Exonucleases:** Group of enzymes that remove nucleotide bases from the end of a DNA chain.
+ - **DNA ligase:**  joins DNA fragments together by forming phosphodiester bonds between nucleotides.    
  
 All the steps with mentioned terminologies are show in the fascinating figure below.
 ![dna-replicaton](/assets/DNA-replication.png)
 Image from https://teachmephysiology.com/biochemistry/cell-growth-death/dna-replication/
 
-
+# Resources:
+ - https://www.thoughtco.com/dna-replication-3981005
 
