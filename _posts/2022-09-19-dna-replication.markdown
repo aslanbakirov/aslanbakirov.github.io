@@ -23,7 +23,9 @@ Here are the steps for DNA-replication:
  
   Once both new strands are formed, an enzyme called _exonuclease_ removes all RNA primers from the original strands. These primers are then replaced with proper bases. Another enzyme called _DNA ligase_ joins Okazaki fragments together forming a single unified strand.  The ends of parent strands consists of repeated DNA sequences called _telomeres_. Telomeres act as protective caps. Another enzyme called _telomerase_ catalyzes the synthesis of telomere sequences at the ends of the DNA.
 
- 
+
+# Terminology Summary
+
 As it can be seen, enzymes play a crucial role in DNA replication, lets summarise again their names and functionalities:
 
  - **DNA helicase:** unwinds and separates double stranded DNA as it moves along the DNA. It forms the replication fork by breaking hydrogen bonds between nucleotide pairs in DNA.
