@@ -8,8 +8,9 @@ Here are the steps for DNA-replication:
 
  **1. Replication Fork Formation (a.k.a Initiation)**
  
+   This step can be seen as a preparation for the replication. Since DNA is in double stranded form, it must be "unzipped" first into two single strand in order to start replication. First thing first, the interactions between base pairs must be broken. This is performed by an enzyme called _DNA helicase_. This enzyme breaks the hydrogen bonding between base pairs to separate the strand into Y shaped known as _replication fork_.
 
-We form fork here
+
  2. **Primer Binding**
  bindig
  3. **Elongation**
